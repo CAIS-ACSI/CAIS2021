@@ -25,7 +25,6 @@ social:
   
 ---
 
-# Northern Relations: Connecting the Unexpected and Overlooked to Information Science
 49th Annual Conference of the Canadian Association for Information Science / l’Association canadienne des sciences de l’information (CAIS/ACSI)<br>
 June 7 – 10, 2021
 <br><br>
