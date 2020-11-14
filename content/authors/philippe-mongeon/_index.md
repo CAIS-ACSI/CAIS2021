@@ -6,7 +6,6 @@ avatar_filename: avatar.jpg
 superuser: false
 user_groups:
   - Authors
-  - Conference co-chairs
 ---
 
 # Bio

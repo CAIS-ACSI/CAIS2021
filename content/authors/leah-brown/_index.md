@@ -21,7 +21,7 @@ organizations:
     url: insight.uwo.ca
 superuser: false
 user_groups:
-  - Conference co-chairs
+  - Authors
 ---
 Leah Brown, MLIS is a doctoral student at the Faculty of Information & Media Studies at Western University and a member of the Insight Lab at Western's Department of Computer Science.
 
