@@ -42,6 +42,7 @@ Submissions may cover topics including but not necessarily limited to the follow
 - Connected or networked views of data, information, and knowledge as they are entangled with people, communities, and society
 - Relational, interdisciplinary, and intersectional research, theory, and practice that facilitates equity, diversity, and inclusion
 <br><br>
+
 We invite papers, panels, and poster submissions representing diverse topics and methods related (but not limited) to the above theme. We particularly encourage individuals to submit papers, panels, and posters with further connections to “Northern Relations”; and that emphasize, support, and facilitate equity, diversity, inclusion, intersectionality, truth and reconciliation, and/or decolonization.
 
 ### Types of proposals
