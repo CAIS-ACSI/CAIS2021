@@ -60,8 +60,10 @@ CAIS/ACSI welcomes proposals reporting on empirical, theoretical, and practice-b
 Proposals will be evaluated on theory/methodology, clarity, impact/originality, and overall quality. Proposals will be received and reviewed using the OJS system: https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions. If you run into issues submitting your paper, poster, or panel through OJS by the submission date, please submit instead by email to Robyn Stobbs (stobbs@ualberta.ca) with “CAIS 2021” as the subject line.
 <br><br>
 **Student Research Forum**: We are pleased to invite master’s and doctoral students to CAIS’s Student Research Forum. The Forum’s goal is to provide graduate students with an opportunity to present and discuss their research project, get feedback from senior researchers, and make connections with other master’s and doctoral students. Students at any stage of their graduate program are invited to submit to the Forum.
+<br><br>
 Please be prepared to present informally on an aspect of your research for 5-10 minutes, which will be followed by discussion. More details will be provided upon acceptance.
-To participate, please fill out the following submission form.
+<br><br>
+To participate, please fill out the following [submission form](https://docs.google.com/forms/d/e/1FAIpQLSdLg4QDkFUgfzT9D2Uq-aoW0SYUUP1q9K_tNhcvMoZdDc8LmA/viewform?usp=sf_link).
 <br><br>
 The submission deadline for all proposals is **January 22, 2021, midnight Pacific Time**.
 <br><br>
