@@ -36,7 +36,7 @@
   weight = 60
 
 [[main]]
-  name = "Fançais"
+  name = "Français"
   url = "https://acsi2021.netlify.app"
   weight = 65
 
