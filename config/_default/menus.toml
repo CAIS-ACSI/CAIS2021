@@ -23,12 +23,10 @@
 #  url = "#people"
 #  weight = 40
 
-
 [[main]]
   name = "Team"
   url = "#chairs"
   weight = 45
-
 
 [[main]]
   name = "Contact"
