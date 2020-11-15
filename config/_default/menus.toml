@@ -35,10 +35,10 @@
   url = "#contact"
   weight = 60
 
-#[[main]]
-#  name = "FR"
-#  url = "#"
-#  weight = 65
+[[main]]
+  name = "Fançais"
+  url = "https://acsi2020.netlify.app"
+  weight = 65
 
 #[[main]]
 #  name = "Live Stream"
