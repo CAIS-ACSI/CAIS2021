@@ -68,9 +68,9 @@ Please be prepared to present informally on an aspect of your research for 5-10 
 <br><br>
 To participate, please fill out the following [submission form](https://docs.google.com/forms/d/e/1FAIpQLSdLg4QDkFUgfzT9D2Uq-aoW0SYUUP1q9K_tNhcvMoZdDc8LmA/viewform?usp=sf_link).
 <br><br>
-The submission deadline for all proposals is **January 22, 2021, midnight Pacific Time**.
+The submission deadline for all proposals is ~~January 22~~ **February 2, 2021, midnight Pacific Time**.
 <br><br>
-Authors will be notified no later than March 1, 2021. Final versions must be submitted no later than April 30, 2021, and will then be published on the conference website and in the conference proceedings. Authors are also encouraged to submit full papers to the Canadian Journal of Information and Library Science / La Revue canadienne des sciences de l’information et de bibliothéconomie.
+Authors will be notified no later than ~~March 1~~ March 12, 2021. Final versions must be submitted no later than ~~April 30~~May 11, 2021, and will then be published on the conference website and in the conference proceedings. Authors are also encouraged to submit full papers to the Canadian Journal of Information and Library Science / La Revue canadienne des sciences de l’information et de bibliothéconomie.
 <br><br>
 Initial submissions should be scrubbed of identifying information for double-blind peer review.
 <br><br>
