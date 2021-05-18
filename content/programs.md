@@ -199,11 +199,13 @@ header:
     </td>
   </tr>
   <tr>
+    <td>14:30</td>
     <td><strong><a href="">“Northern Relations”: Collaborating “In a Good Way” to Develop the Inuvialuit Digital Library Metadata Framework</a></strong><br>
         <i></i>
     </td>
   </tr>
   <tr>
+    <td>14:30</td>
     <td><strong><a href="">Decolonization and Reconciliation work in Public Libraries: An Analysis of Strategic Plans</a></strong><br>
         <i></i>
     </td>
@@ -237,11 +239,13 @@ header:
     </td>
   </tr>
   <tr>
+    <td>14:30</td>
     <td><strong><a href="">“Northern Relations”: Collaborating “In a Good Way” to Develop the Inuvialuit Digital Library Metadata Framework</a></strong><br>
         <i></i>
     </td>
   </tr>
   <tr>
+    <td>14:30</td>
     <td><strong><a href="">“Northern Relations”: Collaborating “In a Good Way” to Develop the Inuvialuit Digital Library Metadata Framework</a></strong><br>
         <i></i>
     </td>
