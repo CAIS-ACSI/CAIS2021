@@ -30,7 +30,7 @@ header:
     <td colspan=2>2:00 pm - 2:30 pm </td>
   </tr>
   <tr>
-    <td rowspan=3>Best papers</td>
+    <td rowspan=3 style="vertical-align:center">Best papers</td>
     <td>2:30 pm</td>
     <td><strong><a href="">A Bibliometric Analysis of Race-Related Research in LIS</a></strong><br>
         <i>Philippe Mongeon, Alison Brown, Ratna Dhaliwal, Jessalyn Hill, Amber Matthews</i>
