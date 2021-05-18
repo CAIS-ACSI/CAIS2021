@@ -19,6 +19,17 @@ header:
     <th style="width:70%">Presentation</th>
   </tr>
   <tr>
+    <td>Keynote</td>
+    <td>12:30 pm</td>
+    <td><strong><a href="">Unexpected and Overlooked: Understanding Epistemicide in Information Science</a></strong><br>
+        <i>Beth Patin</i>
+    </td>
+  </tr>
+  <tr>
+    <td>Break</td>
+    <td colspan=2>2:00 pm - 2:30 pm </td>
+  </tr>
+  <tr>
     <td>Best papers</td>
     <td>2:30 pm</td>
     <td><strong><a href="">A Bibliometric Analysis of Race-Related Research in LIS</a></strong><br>
