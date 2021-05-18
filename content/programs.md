@@ -20,7 +20,7 @@ header:
   </tr>
   <tr>
     <td style="vertical-align:middle">Keynote</td>
-    <td>12:30 pm</td>
+    <td>12:30 ET</td>
     <td><strong><a href="">Unexpected and Overlooked: Understanding Epistemicide in Information Science</a></strong><br>
         <i>Beth Patin</i>
     </td>
@@ -31,19 +31,19 @@ header:
   </tr>
   <tr>
     <td rowspan=3 style="vertical-align:middle">Best papers</td>
-    <td>2:30 pm</td>
+    <td>14:30 ET</td>
     <td><strong><a href="">A Bibliometric Analysis of Race-Related Research in LIS</a></strong><br>
         <i>Philippe Mongeon, Alison Brown, Ratna Dhaliwal, Jessalyn Hill, Amber Matthews</i>
     </td>
   </tr>
   <tr>
-    <td>3:00 pm</td>
+    <td>15:00 ET</td>
     <td>Reading the Silence: Canadian Library Responses to Racial Injustice<br>
         <italic>Amber Matthews</italic>
     </td>
   </tr>
   <tr>
-    <td>3:30 pm</td>
+    <td>15:30 ET</td>
     <td>Perspectives on Telehealth Projects in Northern Communities: Lessons Learned for Decolonized Participatory Design and Assessment<br>
         <italic>Joelena Leader; Abby Goodrum</italic>
     </td>
@@ -60,28 +60,32 @@ header:
   </tr>
   <tr>
     <td rowspan=4 style="vertical-align:middle">Serendipity and Contemplation</td>
-    <td>9:30 pm</td>
+    <td>9:30 ET</td>
     <td><strong><a href="">Contemplative Inquiry: A Novel Research Methodology for Information Science</a></strong><br>
         <i>Joelena Leader, Abby Goodrum</i>
     </td>
   </tr>
   <tr>
-    <td>10:00 pm</td>
+    <td>10:00 ET</td>
     <td>Aha! Librarians’ predisposition for information encountering and serendipity in the workplace<br>
         <italic></italic>
     </td>
   </tr>
   <tr>
-    <td>10:30 pm</td>
+    <td>10:30 ET</td>
     <td>The Role of Human Information Behaviour in Resilience and Recovery<br>
         <italic>Angela Pollak, Julia Hersberger, Shelbi Webb</italic>
     </td>
   </tr>
   <tr>
-    <td>11:00 pm</td>
+    <td>11:00 ET</td>
     <td>Many Paths: Curiosity as Transformative Process<br>
         <italic>Linds Roberts</italic>
     </td>
+  </tr>
+  <tr>
+    <td>Break</td>
+    <td colspan=2>2:00 pm - 2:30 pm </td>
   </tr>
 </table>
 
