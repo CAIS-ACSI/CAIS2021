@@ -94,7 +94,7 @@ header:
     </td>
   </tr>
   <tr>
-    <td>Poster Session</td>
+    <td rowspan=9>Poster Session</td>
     <td>14:30</td>
     <td><strong><a href="">“I’ll just make sure we’re all on the same page”: Talking fictional worlds into being</a></strong><br>
         <i>Robyn Stobbs, Arlene Oak</i>
