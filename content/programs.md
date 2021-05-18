@@ -10,7 +10,7 @@ header:
   image: ""
 ---
 
-### Day 1 (Monday, June 7)
+<font size="20px"><strong>Day 2 (Tuesday, June 8)</strong></font>
 
 <table style="width:100%">
   <tr>
