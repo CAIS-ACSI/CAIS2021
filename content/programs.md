@@ -14,9 +14,9 @@ header:
 
 <table style="width:100%">
   <tr>
-    <th>Session</th>
-    <th>Time</th>
-    <th>Presentation</th>
+    <th style="width:30%">Session</th>
+    <th style="width:10%">Time</th>
+    <th style="width:60%">Presentation</th>
   </tr>
   <tr>
     <td>Best papers</td>
