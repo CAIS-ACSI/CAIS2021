@@ -94,9 +94,64 @@ header:
         <i>Jenna Hartel, Kiersten F. Latham, Beck Tench, Hugh Samson, Hailey Siracky, and Roger Chabot</i>
     </td>
   </tr>
+  <tr>
+    <td rowspan=9 style="vertical-align:middle">Poster Session</td>
+    <td rowspan=9 style="vertical-align:middle">14:30</td>
+    <td><strong><a href="">“I’ll just make sure we’re all on the same page”: Talking fictional worlds into being</a></strong><br>
+        <i>Joelena Leader, Abby Goodrum</i>
+    </td>
+  </tr>
+  <tr>
+    <td><strong><a href="">The established archives: a bibliometric overview of archival research</a></strong><br>
+        <i></i>
+    </td>
+  </tr>
+  <tr>
+    <td><strong><a href="">Assessing the loss of Western Canadian digital heritage</a></strong><br>
+        <i></i>
+    </td>
+  </tr>
+  <tr>
+    <td><strong><a href="">A whole new world : Investigating the use of social media by the Vancouver Public Library to deliver services during the COVID-19 pandemic</a></strong><br>
+        <i></i>
+    </td>
+  </tr>
+  <tr>
+    <td><strong><a href="">Is Archival Scholarship for Everybody? A Bibliometric Analysis of Gender and Knowledge Production in the Archival Field, 1981 - 2019</a></strong><br>
+        <i></i>
+    </td>
+  </tr>
+  <tr>
+    <td><strong><a href="">Public library staff experiences of accommodation in the workplace</a></strong><br>
+        <i></i>
+    </td>
+  </tr>
+  <tr>
+    <td><strong><a href="">From “a great counter attraction to the ale-house and low music hall” to “the one place everybody goes”: the public library in The Globe and Mail, 1860-2016</a></strong><br>
+        <i></i>
+    </td>
+  </tr>
+  <tr>
+    <td><strong><a href="">“Hide, stay still and listen carefully”: Birdwatchers’ information seeking and sharing on YouTube</a></strong><br>
+        <i></i>
+    </td>
+  </tr>
+  <tr>
+    <td><strong><a href="">Multi-method experience sampling in information behaviour research</a></strong><br>
+        <i></i>
+    </td>
+  </tr>
 </table>
 
  
+
+
+ 
+
+
+
+
+
 
 
 
