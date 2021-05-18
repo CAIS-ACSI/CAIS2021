@@ -12,7 +12,7 @@ header:
 
 <table style="width:100%">
   <tr>
-    <td colspan=3 style="font-size:20px"><strong><font>Day 1 (Monday, June 7)</font></strong></td>
+    <td colspan=3 style="font-size:20px"><strong><font>Day 1 - Monday, June 7</font></strong></td>
   </tr>
   <tr>
     <th style="width:20%">Session</th>
@@ -50,7 +50,7 @@ header:
     </td>
   </tr>
   <tr>
-      <td colspan=3 style="font-size:20px"><strong><font>Day 2 (Tuesday, June 8)</font></strong></td>
+      <td colspan=3 style="font-size:20px"><strong><font>Day 2 - Tuesday, June 8</font></strong></td>
   </tr>
   <tr>
     <th>Session</th>
@@ -61,7 +61,7 @@ header:
     <td rowspan=4>Serendipity and Contemplation</td>
     <td>9:30-10:00</td>
     <td><strong><a href="">Contemplative Inquiry: A Novel Research Methodology for Information Science</a></strong><br>
-        <i>Joelena Leader, Abby Goodrum</i>
+        <i>Hugh Samson</i>
     </td>
   </tr>
   <tr>
@@ -141,7 +141,7 @@ header:
     </td>
   </tr>
   <tr>
-    <td colspan=3 style="font-size:20px"><strong><font>Day 3 (Wednesday, June 9)</font></strong></td>
+    <td colspan=3 style="font-size:20px"><strong><font>Day 3 - Wednesday, June 9</font></strong></td>
   </tr>
   <tr>
     <th>Session</th>
@@ -208,7 +208,7 @@ header:
     </td>
   </tr>
   <tr>
-    <td colspan=3 style="font-size:20px"><strong><font>Day 4 (Wednesday, June 10)</font></strong></td>
+    <td colspan=3 style="font-size:20px"><strong><font>Day 4 - Wednesday, June 10</font></strong></td>
   </tr>
   <tr>
     <td rowspan=2>Information Policy</td>
@@ -276,7 +276,7 @@ header:
     </td>
   </tr>
   <tr>
-    <td colspan=3 style="font-size:20px"><strong><font>Day 5 (Friday, June 11)</font></strong></td>
+    <td colspan=3 style="font-size:20px"><strong><font>Day 5 - Friday, June 11</font></strong></td>
   </tr>
   <tr>
     <th>Session</th>
