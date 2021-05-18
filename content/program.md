@@ -283,7 +283,7 @@ header:
   <tr>
     <th>Session</th>
     <th>Time (EST)</th>
-    <th>Presentation</th>
+    <th>Event</th>
   </tr>
   <tr>
     <td>Forum</td>
