@@ -181,7 +181,7 @@ header:
     <td colspan=2>11:30 - 12:30</td>
   </tr>
   <tr>
-    <td>Panel - Ethical accountability and high-stakes recordkeeping: Discussions from the Sex Work Activist Histories Project</td>
+    <td>Panel</td>
     <td>12:30</td>
     <td><strong><a href="">Ethical accountability and high-stakes recordkeeping: Discussions from the Sex Work Activist Histories Project</a></strong><br>
         <i>Danielle Allard, Amy Lebovitch, Jenn Clamen, Shawna Ferris, Micheline Hughes</i>
@@ -212,7 +212,7 @@ header:
   </tr>
 </table>
 
-# Day 4 (Thursday, June 10)
+### Day 4 (Thursday, June 10)
 <table>
   <tr>
     <td rowspan=2>Information Policy</td>
