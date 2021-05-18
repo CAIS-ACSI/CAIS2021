@@ -16,8 +16,8 @@ header:
   </tr>
   <tr>
     <th style="width:20%">Session</th>
-    <th style="width:10%">Time (EST)</th>
-    <th style="width:70%">Presentation</th>
+    <th style="width:15%">Time (EST)</th>
+    <th style="width:65%">Presentation</th>
   </tr>
   <tr>
     <td style="vertical-align:middle">Keynote</td>
@@ -53,9 +53,9 @@ header:
       <td colspan=3 style="font-size:20px"><strong><font>Day 2 (Tuesday, June 8)</font></strong></td>
   </tr>
   <tr>
-    <th style="width:20%">Session</th>
-    <th style="width:10%">Time (EST)</th>
-    <th style="width:70%">Presentation</th>
+    <th>Session</th>
+    <th>Time (EST)</th>
+    <th>Presentation</th>
   </tr>
   <tr>
     <td rowspan=4 style="vertical-align:middle">Serendipity and Contemplation</td>
@@ -144,9 +144,9 @@ header:
     <td colspan=3 style="font-size:20px"><strong><font>Day 3 (Wednesday, June 9)</font></strong></td>
   </tr>
   <tr>
-    <th style="width:20%">Session</th>
-    <th style="width:12%">Time (EST)</th>
-    <th style="width:68%">Presentation</th>
+    <th>Session</th>
+    <th>Time (EST)</th>
+    <th>Presentation</th>
   </tr>
   <tr>
     <td rowspan=4>Public Libraries, Media, and Gender</td>
@@ -275,9 +275,9 @@ header:
     <td colspan=3 style="font-size:20px"><strong><font>Day 5 (Friday, June 11)</font></strong></td>
   </tr>
   <tr>
-    <th style="width:20%">Session</th>
-    <th style="width:10%">Time (EST)</th>
-    <th style="width:70%">Presentation</th>
+    <th>Session</th>
+    <th>Time (EST)</th>
+    <th>Presentation</th>
   </tr>
   <tr>
     <td>Forum</td>
