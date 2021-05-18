@@ -140,11 +140,9 @@ header:
         <i>Amelia W. Cole, Kelsey Urgo</i>
     </td>
   </tr>
-</table>
-
-### Day 3 (Wednesday, June 9)
-
-<table style="width:100%">
+  <tr>
+    <td colspan=3 style="font-size:20px"><strong><font>Day 3 (Wednesday, June 9)</font></strong></td>
+  </tr>
   <tr>
     <th style="width:20%">Session</th>
     <th style="width:12%">Time (EST)</th>
@@ -209,10 +207,9 @@ header:
         <i></i>
     </td>
   </tr>
-</table>
-
-### Day 4 (Thursday, June 10)
-<table>
+  <tr>
+    <td colspan=3 style="font-size:20px"><strong><font>Day 4 (Wednesday, June 10)</font></strong></td>
+  </tr>
   <tr>
     <td rowspan=2>Information Policy</td>
     <td>9:30</td>
