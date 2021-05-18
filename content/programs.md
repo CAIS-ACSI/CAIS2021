@@ -21,8 +21,8 @@ header:
   <tr>
     <td>Best papers</td>
     <td>2:30 pm</td>
-    <td>This is the paper<br>
-        Author 1, Author 2, Author 3
+    <td>A Bibliometric Analysis of Race-Related Research in LIS<br>
+        <italic>Philippe Mongeon, Alison Brown, Ratna Dhaliwal, Jessalyn Hill, Amber Matthews</italic>
     </td>
   </tr>
 </table>
