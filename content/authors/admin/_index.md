@@ -1,37 +1,16 @@
 ---
-# Display name
 title: 
 avatar_filename: avatar.jpg
-
-# Username (this should match the folder name)
 authors:
 - admin
-
-# Is this the primary user of the site?
 superuser: false
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-
-social:
-# - icon: envelope
-#  icon_pack: fas
-#  link: '#contact'
-# - icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/cais_acsi
-  
 ---
 **49th Annual Conference of the Canadian Association for Information Science / l’Association canadienne des sciences de l’information (CAIS/ACSI)**
 <br>
 **June 7 – 10, 2021**
 <br>
 
-[![button](https://raw.githubusercontent.com/cais-acsi/cais2021/master/content/submit_button.png)](https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions)
-
-### Call for papers
+### Program
 The Canadian Association for Information Science / l’Association canadienne des sciences de l’information (CAIS/ACSI) invites submissions for its 49th Annual Conference, June 7 – 10, 2021. CAIS/ACSI is planned to take place fully online, hosted by the University of Alberta in Edmonton. 
 <br><br>
 Library and information science is a diverse and relational field, one where different research streams, communities, and cultures meet. However, research, scholarship, pedagogy, and inquiry in information science often centres on the theories, ideas, and practices that have become well-established and privileged. In this time of great change in our communities, cultures, and society, our expectations of “normal” have been ruptured. This contemporary moment simultaneously invites us to re-examine our work by seeking overlooked, under-cited, and emergent voices and scholarship, and transformative methodologies, partnerships, and relationships within and beyond our field. “Northern Relations” calls us to consider both the intergenerational impacts of our work in terms of leadership and pedagogy as well as the constellations of information science that guide us to the emergent, networked, rhizomatic, and connected ideas that take us to literal and metaphorical unexpected and overlooked places and spaces. Facilitating and caring for relations with people, ideas, and non-humans from these entangled, unexpected, and overlooked places and spaces contributes to a resilient and vibrant field in education, research, and practice. 

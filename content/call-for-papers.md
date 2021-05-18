@@ -10,12 +10,6 @@ header:
   image: ""
 ---
 
-**49th Annual Conference of the Canadian Association for Information Science / l’Association canadienne des sciences de l’information (CAIS/ACSI)**
-<br>
-**June 7 – 10, 2021**
-<br>
-
-
 ### Call for papers
 The Canadian Association for Information Science / l’Association canadienne des sciences de l’information (CAIS/ACSI) invites submissions for its 49th Annual Conference, June 7 – 10, 2021. CAIS/ACSI is planned to take place fully online, hosted by the University of Alberta in Edmonton. 
 <br><br>
