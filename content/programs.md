@@ -19,7 +19,7 @@ header:
     <th style="width:70%">Presentation</th>
   </tr>
   <tr>
-    <td>Keynote</td>
+    <td style="vertical-align:middle">Keynote</td>
     <td>12:30 pm</td>
     <td><strong><a href="">Unexpected and Overlooked: Understanding Epistemicide in Information Science</a></strong><br>
         <i>Beth Patin</i>
@@ -50,4 +50,42 @@ header:
   </tr>
 </table>
 
-### Day 1 (June 7)
+### Day 2 (June 8)
+
+<table style="width:100%">
+  <tr>
+    <th style="width:20%">Session</th>
+    <th style="width:10%">Time</th>
+    <th style="width:70%">Presentation</th>
+  </tr>
+  <tr>
+    <td rowspan=4 style="vertical-align:middle">Serendipity and Contemplation</td>
+    <td>9:30 pm</td>
+    <td><strong><a href="">Contemplative Inquiry: A Novel Research Methodology for Information Science</a></strong><br>
+        <i>Joelena Leader, Abby Goodrum</i>
+    </td>
+  </tr>
+  <tr>
+    <td>10:00 pm</td>
+    <td>Aha! Librarians’ predisposition for information encountering and serendipity in the workplace<br>
+        <italic></italic>
+    </td>
+  </tr>
+  <tr>
+    <td>10:30 pm</td>
+    <td>The Role of Human Information Behaviour in Resilience and Recovery<br>
+        <italic>Angela Pollak, Julia Hersberger, Shelbi Webb</italic>
+    </td>
+  </tr>
+  <tr>
+    <td>11:00 pm</td>
+    <td>Many Paths: Curiosity as Transformative Process<br>
+        <italic>Linds Roberts</italic>
+    </td>
+  </tr>
+</table>
+
+ 
+
+
+
