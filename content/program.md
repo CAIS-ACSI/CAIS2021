@@ -13,7 +13,7 @@ header:
 
 <table style="width:100%">
   <tr>
-    <td colspan=3 style="font-size:20px"><strong>Day 1 - Monday, June 7</strong> <font size="14px"><a href="https://zoom.us/j/96815079086">https://zoom.us/j/96815079086</a></font></td>
+    <td colspan=3 style="font-size:20px"><strong>Day 1 - Monday, June 7</strong> <p style="font-size:14px"><a href="https://zoom.us/j/96815079086">https://zoom.us/j/96815079086</a></p></td>
   </tr>
   <tr>
     <th style="width:20%">Session</th>
