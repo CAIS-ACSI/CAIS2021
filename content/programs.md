@@ -84,8 +84,8 @@ header:
     </td>
   </tr>
   <tr>
-    <td>Break</td>
-    <td colspan=2>2:00 - 2:30</td>
+    <td>Lunch Break and Social</td>
+    <td colspan=2>11:30 - 12:30</td>
   </tr>
   <tr>
     <td style="vertical-align:middle">Panel</td>
@@ -98,47 +98,47 @@ header:
     <td rowspan=9 style="vertical-align:middle">Poster Session</td>
     <td rowspan=9 style="vertical-align:middle">14:30</td>
     <td><strong><a href="">“I’ll just make sure we’re all on the same page”: Talking fictional worlds into being</a></strong><br>
-        <i>Joelena Leader, Abby Goodrum</i>
+        <i>Robyn Stobbs, Arlene Oak</i>
     </td>
   </tr>
   <tr>
     <td><strong><a href="">The established archives: a bibliometric overview of archival research</a></strong><br>
-        <i></i>
+        <i>Kendell Fitzgerald; Grace Bourret; Jordan Audas; Lisa Olson; Ana Roeschley; Philippe Mongeon</i>
     </td>
   </tr>
   <tr>
     <td><strong><a href="">Assessing the loss of Western Canadian digital heritage</a></strong><br>
-        <i></i>
+        <i>Tasbire Saiyera; Brenda Reyes Ayala, Qiufeng Du</i>
     </td>
   </tr>
   <tr>
     <td><strong><a href="">A whole new world : Investigating the use of social media by the Vancouver Public Library to deliver services during the COVID-19 pandemic</a></strong><br>
-        <i></i>
+        <i>Sam Vander Kooy</i>
     </td>
   </tr>
   <tr>
     <td><strong><a href="">Is Archival Scholarship for Everybody? A Bibliometric Analysis of Gender and Knowledge Production in the Archival Field, 1981 - 2019</a></strong><br>
-        <i></i>
+        <i>Lisa Olson; Jordan Audas; Grace Bourret; Kendell Fitzgerald; Ana Roeschley; Philippe Mongeon</i>
     </td>
   </tr>
   <tr>
     <td><strong><a href="">Public library staff experiences of accommodation in the workplace</a></strong><br>
-        <i></i>
+        <i>Heather Hill</i>
     </td>
   </tr>
   <tr>
     <td><strong><a href="">From “a great counter attraction to the ale-house and low music hall” to “the one place everybody goes”: the public library in The Globe and Mail, 1860-2016</a></strong><br>
-        <i></i>
+        <i>Sofia Beraldo, Chelsea Coubry-Forte, Katrina Desjardins, Erin Isings, Kate McCandless, Pam McKenzie</i>
     </td>
   </tr>
   <tr>
     <td><strong><a href="">“Hide, stay still and listen carefully”: Birdwatchers’ information seeking and sharing on YouTube</a></strong><br>
-        <i></i>
+        <i>Yazdan Mansourian</i>
     </td>
   </tr>
   <tr>
     <td><strong><a href="">Multi-method experience sampling in information behaviour research</a></strong><br>
-        <i></i>
+        <i>Amelia W. Cole, Kelsey Urgo</i>
     </td>
   </tr>
 </table>
@@ -154,26 +154,26 @@ header:
   <tr>
     <td rowspan=4>Public Libraries, Media, and Gender</td>
     <td>9:30</td>
-    <td><strong><a href="">Contemplative Inquiry: A Novel Research Methodology for Information Science</a></strong><br>
-        <i>Joelena Leader, Abby Goodrum</i>
+    <td><strong><a href="">C#LibraryLife: A quantitative analysis of social media usage, content, and engagement at the Vancouver Public Library</a></strong><br>
+        <i>Sam A. Vander Kooy</i>
     </td>
   </tr>
   <tr>
     <td>10:00</td>
-      <td><strong><a href="">Aha! Librarians’ predisposition for information encountering and serendipity in the workplace</a></strong><br>
-        <i></i>
+      <td><strong><a href="">Use of Twitter by a Public Library during the Pandemic</a></strong><br>
+        <i>Dinesh Rathi</i>
     </td>
   </tr>
   <tr>
     <td>10:30</td>
-    <td><strong><a href="">The Role of Human Information Behaviour in Resilience and Recovery</a></strong><br>
-        <i>Angela Pollak, Julia Hersberger, Shelbi Webb</i>
+    <td><strong><a href="">“We’re Still Open”: Canadian News Media’s Framing of Canadian Public Libraries’ Covid-19 Responses</a></strong><br>
+        <i>Nicole Dalmer; Meridith Griffin</i>
     </td>
   </tr>
   <tr>
     <td>11:00</td>
-    <td><strong><a href="">Many Paths: Curiosity as Transformative Process</a></strong><br>
-        <i>Linds Roberts</i>
+    <td><strong><a href="">Naming patron-perpetrated sexual harassment in libraries</a></strong><br>
+        <i>Tami Oliphant; Danielle Allard; Angela Lieu; Karla Mallach</i>
     </td>
   </tr>
   <tr>
@@ -195,13 +195,13 @@ header:
     <td rowspan=3>Northern Communities</td>
     <td>14:30</td>
     <td><strong><a href="">Indigenous Digital Storytelling for Cultural Heritage Access and Preservation</a></strong><br>
-        <i>Joelena Leader, Abby Goodrum</i>
+        <i>Ali Shiri; Deanna Lyn Howard; Sharon Farnel</i>
     </td>
   </tr>
   <tr>
     <td>14:30</td>
     <td><strong><a href="">“Northern Relations”: Collaborating “In a Good Way” to Develop the Inuvialuit Digital Library Metadata Framework</a></strong><br>
-        <i></i>
+        <i>Sharon Farnel</i>
     </td>
   </tr>
   <tr>
@@ -217,14 +217,14 @@ header:
   <tr>
     <td rowspan=2>Information Policy</td>
     <td>9:30</td>
-    <td><strong><a href="">Indigenous Digital Storytelling for Cultural Heritage Access and Preservation</a></strong><br>
-        <i>Joelena Leader, Abby Goodrum</i>
+    <td><strong><a href="">The intersection of shark research, policy and the public: a bibliometric and altmetric view</a></strong><br>
+        <i>Kory Melnick; Tamanna Moharana; Rémi Toupin; Pallavi Gone; Bertrum MacDonald; Philippe Mongeon</i>
     </td>
   </tr>
   <tr>
     <td>10:00</td>
-    <td><strong><a href="">“Northern Relations”: Collaborating “In a Good Way” to Develop the Inuvialuit Digital Library Metadata Framework</a></strong><br>
-        <i></i>
+    <td><strong><a href="">Citizens’ Right to Privacy and Right to Information Access in Smart Cities: Evaluating the Smart City Initiative of West Baltimore</a></strong><br>
+        <i>Sunyup Park</i>
     </td>
   </tr>
   <tr>
@@ -234,20 +234,20 @@ header:
   <tr>
     <td rowspan=3>Scholarly Publishing</td>
     <td>14:30</td>
-    <td><strong><a href="">Indigenous Digital Storytelling for Cultural Heritage Access and Preservation</a></strong><br>
-        <i>Joelena Leader, Abby Goodrum</i>
+    <td><strong><a href="">Mapping the Canadian library and information science research landscape</a></strong><br>
+        <i>Cora-Lynn Munroe-Lynds; Marc-André Simard; Vinson Li; Emily McClean; Philippe Mongeon</i>
     </td>
   </tr>
   <tr>
     <td>14:30</td>
-    <td><strong><a href="">“Northern Relations”: Collaborating “In a Good Way” to Develop the Inuvialuit Digital Library Metadata Framework</a></strong><br>
-        <i></i>
+    <td><strong><a href="">The burden of article processing charges on Canadian universities</a></strong><br>
+        <i>Marc-André Simard; Toluwase Asubiaro; Philippe Mongeon</i>
     </td>
   </tr>
   <tr>
     <td>14:30</td>
-    <td><strong><a href="">“Northern Relations”: Collaborating “In a Good Way” to Develop the Inuvialuit Digital Library Metadata Framework</a></strong><br>
-        <i></i>
+    <td><strong><a href="">Overlay journals: Overlooked or emergent?</a></strong><br>
+        <i>Gail Thornton and Emily Kroeker</i>
     </td>
   </tr>
   <tr>
