@@ -59,7 +59,7 @@ header:
   </tr>
   <tr>
     <td rowspan=4>Serendipity and Contemplation</td>
-    <td>9:30-10:00</td>
+    <td rowspan=4>9:30-10:00</td>
     <td><strong><a href="">Contemplative Inquiry: A Novel Research Methodology for Information Science</a></strong><br>
         <i>Joelena Leader, Abby Goodrum</i>
     </td>
