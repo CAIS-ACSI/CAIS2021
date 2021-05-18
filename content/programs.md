@@ -27,7 +27,7 @@ header:
   </tr>
   <tr>
     <td>Break</td>
-    <td colspan=2>2:00 pm - 2:30 pm </td>
+    <td colspan=2>2:00 - 2:30</td>
   </tr>
   <tr>
     <td rowspan=3 style="vertical-align:middle">Best papers</td>
@@ -85,7 +85,7 @@ header:
   </tr>
   <tr>
     <td>Break</td>
-    <td colspan=2>2:00 pm - 2:30 pm </td>
+    <td colspan=2>2:00 - 2:30</td>
   </tr>
   <tr>
     <td style="vertical-align:middle">Panel</td>
