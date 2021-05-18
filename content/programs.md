@@ -202,7 +202,7 @@ header:
     </td>
   </tr>
   <tr>
-    <td>15:30-16:00-</td>
+    <td>15:30-16:00</td>
     <td><strong><a href="">Decolonization and Reconciliation work in Public Libraries: An Analysis of Strategic Plans</a></strong><br>
         <i></i>
     </td>
