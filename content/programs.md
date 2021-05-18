@@ -291,7 +291,7 @@ header:
   <tr>
     <td>AGM</td>
     <td>13:00-15:00</td>
-    <td><strong><a href="">CAIS Annual General Meeting</a></strong>
+    <td><strong><a href="">CAIS Annual General Meeting</a></strong><br>
         <i>Philippe Mongeon, CAIS president</i>
     </td>
   </tr>
