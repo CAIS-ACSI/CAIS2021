@@ -102,12 +102,12 @@ header:
   </tr>
   <tr>
     <td><strong><a href="">The established archives: a bibliometric overview of archival research</a></strong><br>
-        <i>Kendell Fitzgerald; Grace Bourret; Jordan Audas; Lisa Olson; Ana Roeschley; Philippe Mongeon</i>
+        <i>Kendell Fitzgerald, Grace Bourret, Jordan Audas, Lisa Olson, Ana Roeschley, Philippe Mongeon</i>
     </td>
   </tr>
   <tr>
     <td><strong><a href="">Assessing the loss of Western Canadian digital heritage</a></strong><br>
-        <i>Tasbire Saiyera; Brenda Reyes Ayala, Qiufeng Du</i>
+        <i>Tasbire Saiyera, Brenda Reyes Ayala, Qiufeng Du</i>
     </td>
   </tr>
   <tr>
@@ -117,7 +117,7 @@ header:
   </tr>
   <tr>
     <td><strong><a href="">Is Archival Scholarship for Everybody? A Bibliometric Analysis of Gender and Knowledge Production in the Archival Field, 1981 - 2019</a></strong><br>
-        <i>Lisa Olson; Jordan Audas; Grace Bourret; Kendell Fitzgerald; Ana Roeschley; Philippe Mongeon</i>
+        <i>Lisa Olson, Jordan Audas, Grace Bourret, Kendell Fitzgerald, Ana Roeschley, Philippe Mongeon</i>
     </td>
   </tr>
   <tr>
@@ -164,13 +164,13 @@ header:
   <tr>
     <td>10:30</td>
     <td><strong><a href="">“We’re Still Open”: Canadian News Media’s Framing of Canadian Public Libraries’ Covid-19 Responses</a></strong><br>
-        <i>Nicole Dalmer; Meridith Griffin</i>
+        <i>Nicole Dalmer, Meridith Griffin</i>
     </td>
   </tr>
   <tr>
     <td>11:00</td>
     <td><strong><a href="">Naming patron-perpetrated sexual harassment in libraries</a></strong><br>
-        <i>Tami Oliphant; Danielle Allard; Angela Lieu; Karla Mallach</i>
+        <i>Tami Oliphant, Danielle Allard, Angela Lieu, Karla Mallach</i>
     </td>
   </tr>
   <tr>
@@ -192,7 +192,7 @@ header:
     <td rowspan=3>Northern Communities</td>
     <td>14:30</td>
     <td><strong><a href="">Indigenous Digital Storytelling for Cultural Heritage Access and Preservation</a></strong><br>
-        <i>Ali Shiri; Deanna Lyn Howard; Sharon Farnel</i>
+        <i>Ali Shiri, Deanna Lyn Howard, Sharon Farnel</i>
     </td>
   </tr>
   <tr>
@@ -214,7 +214,7 @@ header:
     <td rowspan=2>Information Policy</td>
     <td>9:30</td>
     <td><strong><a href="">The intersection of shark research, policy and the public: a bibliometric and altmetric view</a></strong><br>
-        <i>Kory Melnick; Tamanna Moharana; Rémi Toupin; Pallavi Gone; Bertrum MacDonald; Philippe Mongeon</i>
+        <i>Kory Melnick, Tamanna Moharana, Rémi Toupin, Pallavi Gone, Bertrum MacDonald, Philippe Mongeon</i>
     </td>
   </tr>
   <tr>
@@ -231,13 +231,13 @@ header:
     <td rowspan=3>Scholarly Publishing</td>
     <td>14:30</td>
     <td><strong><a href="">Mapping the Canadian library and information science research landscape</a></strong><br>
-        <i>Cora-Lynn Munroe-Lynds; Marc-André Simard; Vinson Li; Emily McClean; Philippe Mongeon</i>
+        <i>Cora-Lynn Munroe-Lynds, Marc-André Simard, Vinson Li, Emily McClean, Philippe Mongeon</i>
     </td>
   </tr>
   <tr>
     <td>14:30</td>
     <td><strong><a href="">The burden of article processing charges on Canadian universities</a></strong><br>
-        <i>Marc-André Simard; Toluwase Asubiaro; Philippe Mongeon</i>
+        <i>Marc-André Simard, Toluwase Asubiaro, Philippe Mongeon</i>
     </td>
   </tr>
   <tr>
