@@ -283,14 +283,14 @@ header:
   </tr>
   <tr>
     <td>Forum</td>
-    <td>12:30</td>
+    <td>9:00 - 11:00</td>
     <td><strong><a href="">Student Research Forum</a></strong><br>
         <i>Yaxi Zhao, Alex Mayhew</i>
     </td>
   </tr>
   <tr>
     <td>AGM</td>
-    <td>12:30</td>
+    <td>13:00-15:00</td>
     <td><strong><a href="">CAIS Annual General Meeting</a></strong></td>
   </tr>
 </table>
