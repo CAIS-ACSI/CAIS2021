@@ -59,7 +59,7 @@ header:
   </tr>
   <tr>
     <td rowspan=4>Serendipity and Contemplation</td>
-    <td rowspan=4>9:30-10:00</td>
+    <td>9:30-10:00</td>
     <td><strong><a href="">Contemplative Inquiry: A Novel Research Methodology for Information Science</a></strong><br>
         <i>Joelena Leader, Abby Goodrum</i>
     </td>
@@ -95,7 +95,7 @@ header:
   </tr>
   <tr>
     <td rowspan=9>Poster Session</td>
-    <td>14:30</td>
+    <td rowspan=9>14:30</td>
     <td><strong><a href="">“I’ll just make sure we’re all on the same page”: Talking fictional worlds into being</a></strong><br>
         <i>Robyn Stobbs, Arlene Oak</i>
     </td>
