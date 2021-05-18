@@ -28,23 +28,23 @@ header:
   </tr>
   <tr>
     <td>Break</td>
-    <td colspan=2>2:00 - 2:30</td>
+    <td colspan=2>2:00-2:30</td>
   </tr>
   <tr>
     <td rowspan=3 style="vertical-align:middle">Best papers</td>
-    <td>14:30</td>
+    <td>14:30-15:00</td>
     <td><strong><a href="">A Bibliometric Analysis of Race-Related Research in LIS</a></strong><br>
         <i>Philippe Mongeon, Alison Brown, Ratna Dhaliwal, Jessalyn Hill, Amber Matthews</i>
     </td>
   </tr>
   <tr>
-    <td>15:00</td>
+    <td>15:00-15:30</td>
     <td><strong><a href="">Reading the Silence: Canadian Library Responses to Racial Injustice</a></strong><br>
         <i>Amber Matthews</i>
     </td>
   </tr>
   <tr>
-    <td>15:30</td>
+    <td>15:30-16:00</td>
     <td><strong><a href="">Perspectives on Telehealth Projects in Northern Communities: Lessons Learned for Decolonized Participatory Design and Assessment</a></strong><br>
         <i>Joelena Leader, Abby Goodrum</i>
     </td>
