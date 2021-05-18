@@ -288,7 +288,7 @@ header:
   <tr>
     <td>Forum</td>
     <td>9:00 - 11:00</td>
-    <td><strong><a href="">Student Research Forum</a></strong><br>
+    <td><strong>Student Research Forum</strong> (by invitation only)<br>
         <i>Yaxi Zhao, Alex Mayhew</i>
     </td>
   </tr>
