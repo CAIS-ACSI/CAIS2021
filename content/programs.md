@@ -20,7 +20,7 @@ header:
     <th style="width:65%">Presentation</th>
   </tr>
   <tr>
-    <td style="vertical-align:middle">Keynote</td>
+    <td>Keynote</td>
     <td>12:30</td>
     <td><strong><a href="">Unexpected and Overlooked: Understanding Epistemicide in Information Science</a></strong><br>
         <i>Beth Patin</i>
@@ -28,10 +28,10 @@ header:
   </tr>
   <tr>
     <td>Break</td>
-    <td colspan=2>2:00-2:30</td>
+    <td colspan=2>14:00-14:30</td>
   </tr>
   <tr>
-    <td rowspan=3 style="vertical-align:middle">Best papers</td>
+    <td rowspan=3>Best papers</td>
     <td>14:30-15:00</td>
     <td><strong><a href="">A Bibliometric Analysis of Race-Related Research in LIS</a></strong><br>
         <i>Philippe Mongeon, Alison Brown, Ratna Dhaliwal, Jessalyn Hill, Amber Matthews</i>
@@ -58,26 +58,26 @@ header:
     <th>Presentation</th>
   </tr>
   <tr>
-    <td rowspan=4 style="vertical-align:middle">Serendipity and Contemplation</td>
-    <td>9:30</td>
+    <td>Serendipity and Contemplation</td>
+    <td>9:30-10:00</td>
     <td><strong><a href="">Contemplative Inquiry: A Novel Research Methodology for Information Science</a></strong><br>
         <i>Joelena Leader, Abby Goodrum</i>
     </td>
   </tr>
   <tr>
-    <td>10:00</td>
+    <td>10:00-10:30</td>
       <td><strong><a href="">Aha! Librarians’ predisposition for information encountering and serendipity in the workplace</a></strong><br>
         <i></i>
     </td>
   </tr>
   <tr>
-    <td>10:30</td>
+    <td>10:30-11:00</td>
     <td><strong><a href="">The Role of Human Information Behaviour in Resilience and Recovery</a></strong><br>
         <i>Angela Pollak, Julia Hersberger, Shelbi Webb</i>
     </td>
   </tr>
   <tr>
-    <td>11:00</td>
+    <td>11:00-11:30</td>
     <td><strong><a href="">Many Paths: Curiosity as Transformative Process</a></strong><br>
         <i>Linds Roberts</i>
     </td>
@@ -87,15 +87,15 @@ header:
     <td colspan=2>11:30 - 12:30</td>
   </tr>
   <tr>
-    <td style="vertical-align:middle">Panel</td>
-    <td>12:30</td>
+    <td>Panel</td>
+    <td>12:30-13:00</td>
     <td><strong><a href="">Finding sanctuary and strength in the LIS classroom</a></strong><br>
         <i>Jenna Hartel, Kiersten F. Latham, Beck Tench, Hugh Samson, Hailey Siracky, and Roger Chabot</i>
     </td>
   </tr>
   <tr>
-    <td rowspan=9 style="vertical-align:middle">Poster Session</td>
-    <td rowspan=9 style="vertical-align:middle">14:30</td>
+    <td>Poster Session</td>
+    <td>14:30</td>
     <td><strong><a href="">“I’ll just make sure we’re all on the same page”: Talking fictional worlds into being</a></strong><br>
         <i>Robyn Stobbs, Arlene Oak</i>
     </td>
