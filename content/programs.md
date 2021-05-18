@@ -21,7 +21,7 @@ header:
   </tr>
   <tr>
     <td>Keynote</td>
-    <td>12:30</td>
+    <td>12:30-14:00</td>
     <td><strong><a href="">Unexpected and Overlooked: Understanding Epistemicide in Information Science</a></strong><br>
         <i>Beth Patin</i>
     </td>
@@ -179,7 +179,7 @@ header:
   </tr>
   <tr>
     <td>Panel</td>
-    <td>12:30</td>
+    <td>12:30-14:00</td>
     <td><strong><a href="">Ethical accountability and high-stakes recordkeeping: Discussions from the Sex Work Activist Histories Project</a></strong><br>
         <i>Danielle Allard, Amy Lebovitch, Jenn Clamen, Shawna Ferris, Micheline Hughes</i>
     </td>
@@ -190,19 +190,19 @@ header:
   </tr>
   <tr>
     <td rowspan=3>Northern Communities</td>
-    <td>14:30</td>
+    <td>14:30-15:00</td>
     <td><strong><a href="">Indigenous Digital Storytelling for Cultural Heritage Access and Preservation</a></strong><br>
         <i>Ali Shiri, Deanna Lyn Howard, Sharon Farnel</i>
     </td>
   </tr>
   <tr>
-    <td>14:30</td>
+    <td>15:00-15:30</td>
     <td><strong><a href="">“Northern Relations”: Collaborating “In a Good Way” to Develop the Inuvialuit Digital Library Metadata Framework</a></strong><br>
         <i>Sharon Farnel</i>
     </td>
   </tr>
   <tr>
-    <td>14:30</td>
+    <td>15:30-16:00-</td>
     <td><strong><a href="">Decolonization and Reconciliation work in Public Libraries: An Analysis of Strategic Plans</a></strong><br>
         <i></i>
     </td>
@@ -225,7 +225,7 @@ header:
   </tr>
   <tr>
     <td>Break</td>
-    <td colspan=2>10:30 - 11:00</td>
+    <td colspan=2>10:30-11:00</td>
   </tr>
   <tr>
     <td rowspan=3>Scholarly Publishing</td>
