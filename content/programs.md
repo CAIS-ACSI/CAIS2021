@@ -271,11 +271,9 @@ header:
         <i>Jennifer McDevitt</i>
     </td>
   </tr>
-</table>
-
-### Day 5 (Friday, June 11)
-
-<table style="width:100%">
+  <tr>
+    <td colspan=3 style="font-size:20px"><strong><font>Day 5 (Friday, June 11)</font></strong></td>
+  </tr>
   <tr>
     <th style="width:20%">Session</th>
     <th style="width:10%">Time (EST)</th>
