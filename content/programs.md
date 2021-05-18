@@ -48,11 +48,9 @@ header:
         <i>Joelena Leader, Abby Goodrum</i>
     </td>
   </tr>
-</table>
-
-### Day 2 (Tuesday, June 8)
-
-<table style="width:100%">
+  <tr>
+      <td colspan=3><strong>Day 2 (Tuesday, June 8)</strong></td>
+  </tr>
   <tr>
     <th style="width:20%">Session</th>
     <th style="width:10%">Time (EST)</th>
