@@ -49,7 +49,7 @@ header:
     </td>
   </tr>
   <tr>
-      <td colspan=3 style="font-size:20px"><strong><font>Day 2 (Tuesday, June 8)</font></strong></td>
+      <td colspan=3 style="font-size:24px"><strong><font>Day 2 (Tuesday, June 8)</font></strong></td>
   </tr>
   <tr>
     <th style="width:20%">Session</th>
