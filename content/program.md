@@ -14,8 +14,7 @@ header:
 <center>zoom link to for all sessions: <a href="https://zoom.us/j/96815079086">https://zoom.us/j/96815079086</a></center><br>
 <table style="width:100%">
   <tr>
-      <td colspan=2 style="font-size:20px"><strong>Day 1 - Monday, June 7</strong> </td>
-      <td style="vertical-align:middle"><strong><a href="https://zoom.us/j/96815079086">https://zoom.us/j/96815079086</a></strong></td>
+      <td colspan=3 style="font-size:20px"><strong>Day 1 - Monday, June 7</strong> </td>
   </tr>
   <tr>
     <th style="width:20%">Session</th>
