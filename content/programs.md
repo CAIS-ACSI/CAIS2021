@@ -12,12 +12,12 @@ header:
 
 <table style="width:100%">
   <tr>
-    <td colspan=3 style="font-size:20px"><strong><font>Day 1 (Monday, June 7)</font></strong></td>
-  </tr>
-  <tr>
     <th style="width:20%">Session</th>
     <th style="width:10%">Time (EST)</th>
     <th style="width:70%">Presentation</th>
+  </tr>
+  <tr>
+    <td colspan=3 style="font-size:20px"><strong><font>Day 1 (Monday, June 7)</font></strong></td>
   </tr>
   <tr>
     <td style="vertical-align:middle">Keynote</td>
