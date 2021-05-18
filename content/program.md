@@ -11,7 +11,7 @@ header:
   image: ""
 ---
 
-<center>zoom link to join all sessions: <a href="https://zoom.us/j/96815079086">https://zoom.us/j/96815079086</a></center><br>
+<center>zoom link to for all sessions: <a href="https://zoom.us/j/96815079086">https://zoom.us/j/96815079086</a></center><br>
 <table style="width:100%">
   <tr>
       <td colspan=2 style="font-size:20px"><strong>Day 1 - Monday, June 7</strong> </td>
