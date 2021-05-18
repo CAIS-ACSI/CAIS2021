@@ -143,7 +143,7 @@ header:
   </tr>
 </table>
 
-### Day 3 (June 10)
+### Day 3 (Wednesday June 9)
 
 <table style="width:100%">
   <tr>
@@ -152,7 +152,7 @@ header:
     <th style="width:68%">Presentation</th>
   </tr>
   <tr>
-    <td>Serendipity and Contemplation</td>
+    <td rowspan=4>Public Libraries, Media, and Gender</td>
     <td>9:30</td>
     <td><strong><a href="">Contemplative Inquiry: A Novel Research Methodology for Information Science</a></strong><br>
         <i>Joelena Leader, Abby Goodrum</i>
@@ -177,8 +177,8 @@ header:
     </td>
   </tr>
   <tr>
-    <td>Break</td>
-    <td colspan=2>2:00 - 2:30</td>
+    <td>Lunch Break and Social</td>
+    <td colspan=2>11:30 - 12:30</td>
   </tr>
   <tr>
     <td>Panel</td>
