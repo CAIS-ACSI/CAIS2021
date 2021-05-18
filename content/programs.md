@@ -30,29 +30,27 @@ header:
     <td colspan=2>2:00 pm - 2:30 pm </td>
   </tr>
   <tr>
-    <td>Best papers</td>
+    <td rowspan=3>Best papers</td>
     <td>2:30 pm</td>
     <td><strong><a href="">A Bibliometric Analysis of Race-Related Research in LIS</a></strong><br>
         <i>Philippe Mongeon, Alison Brown, Ratna Dhaliwal, Jessalyn Hill, Amber Matthews</i>
     </td>
   </tr>
   <tr>
-    <td>Best papers</td>
-    <td>2:30 pm</td>
-    <td>A Bibliometric Analysis of Race-Related Research in LIS<br>
-        <italic>Philippe Mongeon, Alison Brown, Ratna Dhaliwal, Jessalyn Hill, Amber Matthews</italic>
+    <td>3:00 pm</td>
+    <td>Reading the Silence: Canadian Library Responses to Racial Injustice<br>
+        <italic>Amber Matthews</italic>
+    </td>
+  </tr>
+  <tr>
+    <td>3:30 pm</td>
+    <td>Perspectives on Telehealth Projects in Northern Communities: Lessons Learned for Decolonized Participatory Design and Assessment<br>
+        <italic>Joelena Leader; Abby Goodrum</italic>
     </td>
   </tr>
   <tr>
     <td>Best papers</td>
-    <td>2:30 pm</td>
-    <td>A Bibliometric Analysis of Race-Related Research in LIS<br>
-        <italic>Philippe Mongeon, Alison Brown, Ratna Dhaliwal, Jessalyn Hill, Amber Matthews</italic>
-    </td>
-  </tr>
-  <tr>
-    <td>Best papers</td>
-    <td>2:30 pm</td>
+    <td>3:30 pm</td>
     <td>A Bibliometric Analysis of Race-Related Research in LIS<br>
         <italic>Philippe Mongeon, Alison Brown, Ratna Dhaliwal, Jessalyn Hill, Amber Matthews</italic>
     </td>
