@@ -69,7 +69,7 @@ header:
   <tr>
     <td>10:00-10:30</td>
       <td><strong><a href="">Aha! Librarians’ predisposition for information encountering and serendipity in the workplace</a></strong><br>
-        <i></i>
+        <i>Naresh Kumar Agarwal, Yuan Ho Huang, Sanda Erdelez</i>
     </td>
   </tr>
   <tr>
@@ -206,7 +206,7 @@ header:
   <tr>
     <td>15:30-16:00</td>
     <td><strong><a href="">Decolonization and Reconciliation work in Public Libraries: An Analysis of Strategic Plans</a></strong><br>
-        <i></i>
+        <i>Dinesh Rathi</i>
     </td>
   </tr>
   <tr>
