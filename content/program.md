@@ -11,6 +11,8 @@ header:
   image: ""
 ---
 
+<center><strong><a href="https://zoom.us/j/96815079086">https://zoom.us/j/96815079086</a></strong></center>
+
 <table style="width:100%">
   <tr>
       <td colspan=2 style="font-size:20px"><strong>Day 1 - Monday, June 7</strong> </td>
