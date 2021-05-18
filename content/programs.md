@@ -84,7 +84,7 @@ header:
   </tr>
   <tr>
     <td>Lunch Break and Social</td>
-    <td colspan=2>11:30 - 12:30</td>
+    <td colspan=2>11:30-12:30</td>
   </tr>
   <tr>
     <td>Panel</td>
@@ -95,7 +95,7 @@ header:
   </tr>
   <tr>
     <td rowspan=9>Poster Session</td>
-    <td rowspan=9>14:30</td>
+    <td rowspan=9>14:30-16:00</td>
     <td><strong><a href="">“I’ll just make sure we’re all on the same page”: Talking fictional worlds into being</a></strong><br>
         <i>Robyn Stobbs, Arlene Oak</i>
     </td>
@@ -150,32 +150,32 @@ header:
   </tr>
   <tr>
     <td rowspan=4>Public Libraries, Media, and Gender</td>
-    <td>9:30</td>
+    <td>9:30-10:00</td>
     <td><strong><a href="">C#LibraryLife: A quantitative analysis of social media usage, content, and engagement at the Vancouver Public Library</a></strong><br>
         <i>Sam A. Vander Kooy</i>
     </td>
   </tr>
   <tr>
-    <td>10:00</td>
+    <td>10:00-10:30</td>
       <td><strong><a href="">Use of Twitter by a Public Library during the Pandemic</a></strong><br>
         <i>Dinesh Rathi</i>
     </td>
   </tr>
   <tr>
-    <td>10:30</td>
+    <td>10:30-11:00</td>
     <td><strong><a href="">“We’re Still Open”: Canadian News Media’s Framing of Canadian Public Libraries’ Covid-19 Responses</a></strong><br>
         <i>Nicole Dalmer, Meridith Griffin</i>
     </td>
   </tr>
   <tr>
-    <td>11:00</td>
+    <td>11:00-11:30</td>
     <td><strong><a href="">Naming patron-perpetrated sexual harassment in libraries</a></strong><br>
         <i>Tami Oliphant, Danielle Allard, Angela Lieu, Karla Mallach</i>
     </td>
   </tr>
   <tr>
     <td>Lunch Break and Social</td>
-    <td colspan=2>11:30 - 12:30</td>
+    <td colspan=2>11:30-12:30</td>
   </tr>
   <tr>
     <td>Panel</td>
@@ -186,7 +186,7 @@ header:
   </tr>
   <tr>
     <td>Break</td>
-    <td colspan=2>2:00 - 2:30</td>
+    <td colspan=2>14:00-14:30</td>
   </tr>
   <tr>
     <td rowspan=3>Northern Communities</td>
@@ -212,61 +212,65 @@ header:
   </tr>
   <tr>
     <td rowspan=2>Information Policy</td>
-    <td>9:30</td>
+    <td>9:30-10:00</td>
     <td><strong><a href="">The intersection of shark research, policy and the public: a bibliometric and altmetric view</a></strong><br>
         <i>Kory Melnick, Tamanna Moharana, Rémi Toupin, Pallavi Gone, Bertrum MacDonald, Philippe Mongeon</i>
     </td>
   </tr>
   <tr>
-    <td>10:00</td>
+    <td>10:00-10:30</td>
     <td><strong><a href="">Citizens’ Right to Privacy and Right to Information Access in Smart Cities: Evaluating the Smart City Initiative of West Baltimore</a></strong><br>
         <i>Sunyup Park</i>
     </td>
   </tr>
   <tr>
     <td>Break</td>
-    <td colspan=2>2:00 - 2:30</td>
+    <td colspan=2>10:30 - 11:00</td>
   </tr>
   <tr>
     <td rowspan=3>Scholarly Publishing</td>
-    <td>14:30</td>
+    <td>11:00-11:30</td>
     <td><strong><a href="">Mapping the Canadian library and information science research landscape</a></strong><br>
         <i>Cora-Lynn Munroe-Lynds, Marc-André Simard, Vinson Li, Emily McClean, Philippe Mongeon</i>
     </td>
   </tr>
   <tr>
-    <td>14:30</td>
+    <td>11:30-12:00</td>
     <td><strong><a href="">The burden of article processing charges on Canadian universities</a></strong><br>
         <i>Marc-André Simard, Toluwase Asubiaro, Philippe Mongeon</i>
     </td>
   </tr>
   <tr>
-    <td>14:30</td>
+    <td>12:00-12:30</td>
     <td><strong><a href="">Overlay journals: Overlooked or emergent?</a></strong><br>
         <i>Gail Thornton and Emily Kroeker</i>
     </td>
   </tr>
   <tr>
+    <td>Lunch Break and Social</td>
+    <td colspan=2>12:30-13:30</td>
+  </tr>
+  <tr>
     <td rowspan=4>Youth and Information Literacy</td>
-    <td>14:30</td>
+    <td>13:30-14:00</td>
     <td><strong><a href="">Information Literacy in Nova Scotia: Systematic Mapping of High School Learning Outcomes</a></strong><br>
         <i>Cora-Lynn Munroe-Lynds</i>
     </td>
   </tr>
   <tr>
-    <td>14:30</td>
+    <td>14:00-14:30</td>
     <td><strong><a href="">Information Literacy from High School to University: Report of the Ontario School Library Impact Project (OSLIP)</a></strong><br>
         <i>Mary Cavanagh, Dianne Oberg, Heather Buchansky, Marc d’Avernas: Kate Johnson-McGregor, Sarah Roberts</i>
     </td>
   </tr>
   <tr>
-    <td>14:30</td>
+    <td>14:30-15:00</td>
     <td><strong><a href="">Instruction from the margins: Giving voice to community college librarians</a></strong><br>
         <i>Heidi Julien, Melissa Gross, Don Latham</i>
     </td>
   </tr>
   <tr>
-    <td>14:30</td>
+    <td>15:00-15:30</td>
     <td><strong><a href="">Educating and Empowering Teen Activists in Public Libraries: A Case Study of the Impact of Reading on Young Adult Social Justice Actions</a></strong><br>
         <i>Jennifer McDevitt</i>
     </td>
