@@ -1,20 +1,26 @@
 ---
-title: "Unexpected and Overlooked: Understanding Epistemicide in Information Science"
+title: "From “a great counter attraction to the ale-house and low music hall” to “the one place everybody goes”: the public library in The Globe and Mail, 1860-2016"
 event: CAIS2021
 event_url: ../../program/
 
 location: https://zoom.us/j/96815079086
 
-abstract: "This year's conference theme asks us to re-examine our work by seeking overlooked, under-cited, and emergent voices and scholarship, and transformative methodologies, partnerships, and relationships within and beyond our field. Indeed, the information professions need a paradigmatic shift to examine the ways we have systematically undermined knowledge systems falling outside of Western traditions. Epistemicide is the killing, silencing, annihilation, or devaluing of a knowledge system. Epistemicide happens when epistemic injustices are persistent, systematic, and collectively work as a structured oppression of particular ways of knowing. Addressing epistemicide is critical for information professionals because we task ourselves with handling knowledge from every field. There has to be a reckoning before the paradigm can truly shift; if there is no acknowledgement of injustice, there is no room for justice."
+abstract: "Canadian public libraries espouse a set of values that may not be congruent (e.g., preserving “high” culture vs providing access to inclusive collections). Tension or conflict can result when stakeholders emphasize different values, so it is crucial to attend to values in stakeholder accounts, including those in the mass media. This poster presents a) emerging findings from a study of the representation of public libraries in The Globe and Mail since 1860; and b) reflections on the research and research communication process as an innovative experiential learning opportunity for the interdisciplinary team of faculty, graduate, and undergraduate students."
 
-date: "2021-06-28T12:30:00Z"
+date: "2021-06-08T14:30:00Z"
+date_end: "2021-06-08T16:00:00Z"
 
 all_day: false
 
 publishDate: "2021-05-18T00:00:00Z"
 
 authors:
-- Beth Patin
+- Sofia Beraldo
+- Chelsea Coubry-Forte
+- Katrina Desjardins
+- Erin Isings
+- Kate McCandless
+- Pam McKenzie
 
 featured: false
 

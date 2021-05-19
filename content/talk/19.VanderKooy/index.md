@@ -1,20 +1,21 @@
 ---
-title: "Unexpected and Overlooked: Understanding Epistemicide in Information Science"
+title: "#LibraryLife: A quantitative analysis of social media usage, content, and engagement at the Vancouver Public Library"
 event: CAIS2021
 event_url: ../../program/
 
 location: https://zoom.us/j/96815079086
 
-abstract: "This year's conference theme asks us to re-examine our work by seeking overlooked, under-cited, and emergent voices and scholarship, and transformative methodologies, partnerships, and relationships within and beyond our field. Indeed, the information professions need a paradigmatic shift to examine the ways we have systematically undermined knowledge systems falling outside of Western traditions. Epistemicide is the killing, silencing, annihilation, or devaluing of a knowledge system. Epistemicide happens when epistemic injustices are persistent, systematic, and collectively work as a structured oppression of particular ways of knowing. Addressing epistemicide is critical for information professionals because we task ourselves with handling knowledge from every field. There has to be a reckoning before the paradigm can truly shift; if there is no acknowledgement of injustice, there is no room for justice."
+abstract: "This paper explores the contents of the Vancouver Public Library’s Facebook, Instagram, Twitter, and YouTube feeds between September 1st and November 30th, 2020 to better understand how each social media platform is being used to communicate with stakeholders. This quantitative content analysis of each platform’s usage, content, and engagement highlights some important trends libraries should be aware of concerning both the use of multiple social media platforms and the evaluation of their current social media strategies."
 
-date: "2021-06-28T12:30:00Z"
+date: "2021-06-09T9:30:00Z"
+date_end: "2021-06-09T10:00:00Z"
 
 all_day: false
 
 publishDate: "2021-05-18T00:00:00Z"
 
 authors:
-- Beth Patin
+- Sam A. Vander Kooy
 
 featured: false
 

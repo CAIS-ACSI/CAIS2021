@@ -1,20 +1,21 @@
 ---
-title: "Unexpected and Overlooked: Understanding Epistemicide in Information Science"
+title: "Use of Twitter by a Public Library during the Pandemic"
 event: CAIS2021
 event_url: ../../program/
 
 location: https://zoom.us/j/96815079086
 
-abstract: "This year's conference theme asks us to re-examine our work by seeking overlooked, under-cited, and emergent voices and scholarship, and transformative methodologies, partnerships, and relationships within and beyond our field. Indeed, the information professions need a paradigmatic shift to examine the ways we have systematically undermined knowledge systems falling outside of Western traditions. Epistemicide is the killing, silencing, annihilation, or devaluing of a knowledge system. Epistemicide happens when epistemic injustices are persistent, systematic, and collectively work as a structured oppression of particular ways of knowing. Addressing epistemicide is critical for information professionals because we task ourselves with handling knowledge from every field. There has to be a reckoning before the paradigm can truly shift; if there is no acknowledgement of injustice, there is no room for justice."
+abstract: "Social media such as Twitter and Facebook are used by organizations including public libraries to disseminate a variety of information to community members. This research aims to identify key areas in which Twitter was used to share information with users during the initial pandemic phase by a large public library operating in the Western region of Canada. The findings resulting from the analysis of 150 tweets revealed that the library shared information primarily in the following areas: Programs and Services, Library Operations, Health and Hygiene, Resources, and Other."
 
-date: "2021-06-28T12:30:00Z"
+date: "2021-06-09T10:00:00Z"
+date_end: "2021-06-09T10:30:00Z"
 
 all_day: false
 
 publishDate: "2021-05-18T00:00:00Z"
 
 authors:
-- Beth Patin
+- Dinesh Rathi
 
 featured: false
 
