@@ -24,14 +24,14 @@ header:
   </tr>
   <tr>
     <td>Keynote</td>
-    <td>12:30 pm - 2:00 pm</td>
+    <td>12:30pm - 2:00pm</td>
     <td><strong><a href="https://www.cais2021.ca/talk/1.Patin/">Unexpected and overlooked: Understanding epistemicide in information science</a></strong><br>
         <i>Beth Patin</i>
     </td>
   </tr>
   <tr>
     <td>Break</td>
-    <td colspan=2>2:00 pm - 2:30 pm</td>
+    <td colspan=2>2:00pm-2:30pm</td>
   </tr>
   <tr>
     <td rowspan=3>Best papers</td>
