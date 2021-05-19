@@ -1,7 +1,6 @@
 ---
 title: "Collaboration in keeping up to date: Preliminary results of a framework synthesis and a qualitative case study"
-event: 13th EBSI-SIS Symposium
-event_url: ../../event/ebsi-sis-2021
+event: CAIS2021
 
 location: https://zoom.us/j/91952595188
 
