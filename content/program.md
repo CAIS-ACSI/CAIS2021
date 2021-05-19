@@ -69,7 +69,7 @@ header:
   </tr>
   <tr>
     <td>10:00am - 10:30am</td>
-      <td><strong><a href="https://www.cais2021.ca/talk/6.Agrawal/">Aha! Librarians’ predisposition for information encountering and serendipity in the workplace</a></strong><br>
+      <td><strong><a href="https://www.cais2021.ca/talk/6.Agarwal/">Aha! Librarians’ predisposition for information encountering and serendipity in the workplace</a></strong><br>
         <i>Naresh Kumar Agarwal, Yuan Ho Huang, Sanda Erdelez</i>
     </td>
   </tr>
