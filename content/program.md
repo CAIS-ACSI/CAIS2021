@@ -215,24 +215,24 @@ header:
   </tr>
   <tr>
     <td rowspan=2>Information policy</td>
-    <td>9:30am - 10:00 am</td>
+    <td>9:30am - 10:00am</td>
     <td><strong><a href="https://www.cais2021.ca/talk/27.Melnick/">The intersection of shark research, policy and the public: A bibliometric and altmetric view</a></strong><br>
         <i>Kory Melnick, Tamanna Moharana, Rémi Toupin, Pallavi Gone, Bertrum MacDonald, Philippe Mongeon</i>
     </td>
   </tr>
   <tr>
-    <td>10:00am - 10:30 am</td>
+    <td>10:00am - 10:30am</td>
     <td><strong><a href="https://www.cais2021.ca/talk/28.Park/">Citizens’ right to privacy and right to information access in smart cities: Evaluating the smart city initiative of West Baltimore</a></strong><br>
         <i>Sunyup Park</i>
     </td>
   </tr>
   <tr>
     <td>Break</td>
-    <td colspan=2>10:30am- 11:00 am</td>
+    <td colspan=2>10:30am - 11:00am</td>
   </tr>
   <tr>
     <td rowspan=3>Scholarly publishing</td>
-    <td>11:00am - 11:30 am</td>
+    <td>11:00am - 11:30am</td>
     <td><strong><a href="https://www.cais2021.ca/talk/29.Munroe-Lynds/">Mapping the Canadian library and information science research landscape</a></strong><br>
         <i>Cora-Lynn Munroe-Lynds, Marc-André Simard, Vinson Li, Emily McClean, Philippe Mongeon</i>
     </td>
@@ -255,7 +255,7 @@ header:
   </tr>
   <tr>
     <td rowspan=4>Youth and information literacy</td>
-    <td>13:30 - 2:00pm</td>
+    <td>1:30pm - 2:00pm</td>
     <td><strong><a href="https://www.cais2021.ca/talk/32.Munroe-Lynds/">Information literacy in Nova Scotia: Systematic mapping of high school learning outcomes</a></strong><br>
         <i>Cora-Lynn Munroe-Lynds</i>
     </td>
@@ -288,7 +288,7 @@ header:
   </tr>
   <tr>
     <td>Forum</td>
-    <td>9:00am - 11:00 am</td>
+    <td>9:00am - 11:00am</td>
     <td><strong>Student Research Forum</strong> (by invitation only)<br>
         <i>Yaxi Zhao, Alex Mayhew</i>
     </td>
