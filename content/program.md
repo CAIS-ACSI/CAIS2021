@@ -11,14 +11,15 @@ header:
   image: ""
 ---
 
-<center>zoom link to for all sessions: <a href="https://zoom.us/j/96815079086">https://zoom.us/j/96815079086</a></center><br>
+<center>zoom link for all sessions: <a href="https://zoom.us/j/96815079086">https://zoom.us/j/96815079086</a></center><br>
+<center>Note that all times are in Mountain Daylight Time (MDT) </center>
 <table style="width:100%">
   <tr>
       <td colspan=3 style="font-size:20px"><strong>Day 1 - Monday, June 7</strong> </td>
   </tr>
   <tr>
     <th style="width:20%">Session</th>
-    <th style="width:15%">Time (EST)</th>
+    <th style="width:15%">Time (MDT)</th>
     <th style="width:65%">Presentation</th>
   </tr>
   <tr>
@@ -56,7 +57,7 @@ header:
   </tr>
   <tr>
     <th>Session</th>
-    <th>Time (EST)</th>
+    <th>Time (MDT)</th>
     <th>Presentation</th>
   </tr>
   <tr>
@@ -147,7 +148,7 @@ header:
   </tr>
   <tr>
     <th>Session</th>
-    <th>Time (EST)</th>
+    <th>Time (MDT)</th>
     <th>Presentation</th>
   </tr>
   <tr>
@@ -282,7 +283,7 @@ header:
   </tr>
   <tr>
     <th>Session</th>
-    <th>Time (EST)</th>
+    <th>Time (MDT)</th>
     <th>Event</th>
   </tr>
   <tr>
