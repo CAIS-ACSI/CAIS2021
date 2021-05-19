@@ -1,7 +1,7 @@
 ---
 title: "Unexpected and Overlooked: Understanding Epistemicide in Information Science"
 event: CAIS2021
-event_url: ../program/
+event_url: ../../program/
 
 location: https://zoom.us/j/96815079086
 
