@@ -14,7 +14,7 @@ all_day: false
 publishDate: "2010-01-01T00:00:00Z"
 
 authors:
-- Vera Granikov
+- Beth Patin
 
 featured: false
 
