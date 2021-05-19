@@ -261,7 +261,7 @@ header:
     </td>
   </tr>
   <tr>
-    <td>2:00pm -2:30pm</td>
+    <td>2:00pm - 2:30pm</td>
     <td><strong><a href="https://www.cais2021.ca/talk/33.Cavanagh/">Information literacy from high school to university: Report of the Ontario School Library Impact Project (OSLIP)</a></strong><br>
         <i>Mary Cavanagh, Dianne Oberg, Heather Buchansky, Marc d’Avernas: Kate Johnson-McGregor, Sarah Roberts</i>
     </td>
@@ -273,7 +273,7 @@ header:
     </td>
   </tr>
   <tr>
-    <td>3:00pm -3:30pm</td>
+    <td>3:00pm - 3:30pm</td>
     <td><strong><a href="https://www.cais2021.ca/talk/35.McDevitt/">Educating and Empowering teen activists in public libraries: A case study of the impact of reading on young adult social justice actions</a></strong><br>
         <i>Jennifer McDevitt</i>
     </td>
