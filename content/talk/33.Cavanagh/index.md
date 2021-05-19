@@ -1,20 +1,26 @@
 ---
-title: "Unexpected and Overlooked: Understanding Epistemicide in Information Science"
+title: "Information Literacy from High School to University: Report of the Ontario School Library Impact Project (OSLIP)"
 event: CAIS2021
 event_url: ../../program/
 
 location: https://zoom.us/j/96815079086
 
-abstract: "This year's conference theme asks us to re-examine our work by seeking overlooked, under-cited, and emergent voices and scholarship, and transformative methodologies, partnerships, and relationships within and beyond our field. Indeed, the information professions need a paradigmatic shift to examine the ways we have systematically undermined knowledge systems falling outside of Western traditions. Epistemicide is the killing, silencing, annihilation, or devaluing of a knowledge system. Epistemicide happens when epistemic injustices are persistent, systematic, and collectively work as a structured oppression of particular ways of knowing. Addressing epistemicide is critical for information professionals because we task ourselves with handling knowledge from every field. There has to be a reckoning before the paradigm can truly shift; if there is no acknowledgement of injustice, there is no room for justice."
+abstract: "The Ontario School Library Impact Project (OSLIP) investigated the impact of school libraries on the development of key information literacy skills in students entering post-secondary education, using online surveys and qualitative interviews. The project found that first-year university students are challenged by the demands of post-secondary course research assignments. These findings support previous research indicating first-year university students are challenged by new demands for research skills. Unfortunately, opportunities to develop those skills are inconsistent among school boards in Ontario. This is a multifaceted problem confronting both school librarians and academic librarians as well as their teaching partners."
 
-date: "2021-06-28T12:30:00Z"
+date: "2021-06-10T14:00:00Z"
+date_end: "2021-06-10T14:30:00Z"
 
 all_day: false
 
 publishDate: "2021-05-18T00:00:00Z"
 
 authors:
-- Beth Patin
+- Mary Cavanagh
+- Dianne Oberg
+- Heather Buchansky
+- Marc d’Avernas
+- Kate Johnson-McGregor
+- Sarah Roberts
 
 featured: false
 

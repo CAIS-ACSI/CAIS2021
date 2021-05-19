@@ -1,20 +1,21 @@
 ---
-title: "Unexpected and Overlooked: Understanding Epistemicide in Information Science"
+title: "Educating and Empowering Teen Activists in Public Libraries: A Case Study of the Impact of Reading on Young Adult Social Justice Actions"
 event: CAIS2021
 event_url: ../../program/
 
 location: https://zoom.us/j/96815079086
 
-abstract: "This year's conference theme asks us to re-examine our work by seeking overlooked, under-cited, and emergent voices and scholarship, and transformative methodologies, partnerships, and relationships within and beyond our field. Indeed, the information professions need a paradigmatic shift to examine the ways we have systematically undermined knowledge systems falling outside of Western traditions. Epistemicide is the killing, silencing, annihilation, or devaluing of a knowledge system. Epistemicide happens when epistemic injustices are persistent, systematic, and collectively work as a structured oppression of particular ways of knowing. Addressing epistemicide is critical for information professionals because we task ourselves with handling knowledge from every field. There has to be a reckoning before the paradigm can truly shift; if there is no acknowledgement of injustice, there is no room for justice."
+abstract: "This participatory case study, which consisted of a co-designed virtual program through the Camrose Public Library, investigates how teen readers engage with the social justice themes in YA fiction, how and if they find these themes useful for understanding and engaging in activism on their own, and the influence of public library programming on these actions. I approached my research from a teen-centred perspective, inviting the youth who participated to make adjustments to each stage of the process. My research design, data collection, and data analysis were informed by critical ethnography as theory and reader-response theory. This case study found that, on their own, neither social activism narratives nor library programs motivate teens to conduct social justice actions; instead, they contribute to a network of learning opportunities and information that leads to teens becoming motivated to make a difference in their communities. Thus, public libraries can provide teen programming that uses social activism narratives and collaborative discussions to teach teens more about social justice issues, show them how to get involved in social justice movements, and instill in them the confidence to do so."
 
-date: "2021-06-28T12:30:00Z"
+date: "2021-06-10T15:00:00Z"
+date_end: "2021-06-10T15:30:00Z"
 
 all_day: false
 
 publishDate: "2021-05-18T00:00:00Z"
 
 authors:
-- Beth Patin
+- Jennifer McDevitt
 
 featured: false
 

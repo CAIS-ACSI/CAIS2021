@@ -1,20 +1,21 @@
 ---
-title: "Unexpected and Overlooked: Understanding Epistemicide in Information Science"
+title: "Citizens’ Right to Privacy and Right to Information Access in Smart Cities: Evaluating the Smart City Initiative of West Baltimore"
 event: CAIS2021
 event_url: ../../program/
 
 location: https://zoom.us/j/96815079086
 
-abstract: "This year's conference theme asks us to re-examine our work by seeking overlooked, under-cited, and emergent voices and scholarship, and transformative methodologies, partnerships, and relationships within and beyond our field. Indeed, the information professions need a paradigmatic shift to examine the ways we have systematically undermined knowledge systems falling outside of Western traditions. Epistemicide is the killing, silencing, annihilation, or devaluing of a knowledge system. Epistemicide happens when epistemic injustices are persistent, systematic, and collectively work as a structured oppression of particular ways of knowing. Addressing epistemicide is critical for information professionals because we task ourselves with handling knowledge from every field. There has to be a reckoning before the paradigm can truly shift; if there is no acknowledgement of injustice, there is no room for justice."
+abstract: "This paper will detail smart city initiatives in West Baltimore and evaluate different approaches to ensure the right to privacy and the right to information access of lower-income communities of color. After evaluating these approaches, this paper proposes recommendations to facilitate the right to privacy and the right to information access in lower-income communities."
 
-date: "2021-06-28T12:30:00Z"
+date: "2021-06-10T10:00:00Z"
+date_end: "2021-06-10T10:30:00Z"
 
 all_day: false
 
 publishDate: "2021-05-18T00:00:00Z"
 
 authors:
-- Beth Patin
+- Sunyup Park
 
 featured: false
 

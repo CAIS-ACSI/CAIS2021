@@ -1,20 +1,24 @@
 ---
-title: "Unexpected and Overlooked: Understanding Epistemicide in Information Science"
+title: "The burden of article processing charges on Canadian universities"
 event: CAIS2021
 event_url: ../../program/
 
 location: https://zoom.us/j/96815079086
 
-abstract: "This year's conference theme asks us to re-examine our work by seeking overlooked, under-cited, and emergent voices and scholarship, and transformative methodologies, partnerships, and relationships within and beyond our field. Indeed, the information professions need a paradigmatic shift to examine the ways we have systematically undermined knowledge systems falling outside of Western traditions. Epistemicide is the killing, silencing, annihilation, or devaluing of a knowledge system. Epistemicide happens when epistemic injustices are persistent, systematic, and collectively work as a structured oppression of particular ways of knowing. Addressing epistemicide is critical for information professionals because we task ourselves with handling knowledge from every field. There has to be a reckoning before the paradigm can truly shift; if there is no acknowledgement of injustice, there is no room for justice."
+abstract: "The question about the cost of access to scholarly resources is usually answered by focusing on subscription cost. This study highlights the article processing charges (APCs) paid by Canada’s research institution as an additional scholarly resource. Unpaywall database was queried with the DOIs of CARL member universities’ publication indexed in the Web of Science. We find that while Open Access should in principle reduce the cost of access to scholarly literature, we are rather in a situation where both the cost of access and the cost of publishing are increasing simultaneously."
 
-date: "2021-06-28T12:30:00Z"
+date: "2021-06-10T11:30:00Z"
+date_end: "2021-06-10T12:00:00Z"
 
 all_day: false
 
 publishDate: "2021-05-18T00:00:00Z"
 
 authors:
-- Beth Patin
+- Marc-André Simard
+- Toluwase Asubiaro
+- Philippe Mongeon
+
 
 featured: false
 

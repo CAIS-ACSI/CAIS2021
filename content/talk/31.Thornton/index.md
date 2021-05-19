@@ -1,20 +1,23 @@
 ---
-title: "Unexpected and Overlooked: Understanding Epistemicide in Information Science"
+title: "Overlay journals: Overlooked or emergent?"
 event: CAIS2021
 event_url: ../../program/
 
 location: https://zoom.us/j/96815079086
 
-abstract: "This year's conference theme asks us to re-examine our work by seeking overlooked, under-cited, and emergent voices and scholarship, and transformative methodologies, partnerships, and relationships within and beyond our field. Indeed, the information professions need a paradigmatic shift to examine the ways we have systematically undermined knowledge systems falling outside of Western traditions. Epistemicide is the killing, silencing, annihilation, or devaluing of a knowledge system. Epistemicide happens when epistemic injustices are persistent, systematic, and collectively work as a structured oppression of particular ways of knowing. Addressing epistemicide is critical for information professionals because we task ourselves with handling knowledge from every field. There has to be a reckoning before the paradigm can truly shift; if there is no acknowledgement of injustice, there is no room for justice."
+abstract: "Overlay journals are not a new concept but have been experiencing a recent resurgence because of the increase in the number of preprint servers and the increase in the number of preprints on coronavirus disease 2019 (COVID-19) related topics. This study examines overlay journals at various stages of maturity for unique characteristics, including whether the authors submitted their article to the journal and whether the reviews of the article are published by the overlay journal. Whether they are considered overlooked or emergent, overlay journals are becoming an important contribution to scholarly communication."
 
-date: "2021-06-28T12:30:00Z"
+date: "2021-06-10T12:00:00Z"
+date_end: "2021-06-10T12:30:00Z"
 
 all_day: false
 
 publishDate: "2021-05-18T00:00:00Z"
 
 authors:
-- Beth Patin
+- Gail Thornton
+- Emily Kroeker
+
 
 featured: false
 

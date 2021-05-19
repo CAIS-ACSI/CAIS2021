@@ -1,20 +1,23 @@
 ---
-title: "Unexpected and Overlooked: Understanding Epistemicide in Information Science"
+title: "Instruction from the margins: Giving voice to community college librarians"
 event: CAIS2021
 event_url: ../../program/
 
 location: https://zoom.us/j/96815079086
 
-abstract: "This year's conference theme asks us to re-examine our work by seeking overlooked, under-cited, and emergent voices and scholarship, and transformative methodologies, partnerships, and relationships within and beyond our field. Indeed, the information professions need a paradigmatic shift to examine the ways we have systematically undermined knowledge systems falling outside of Western traditions. Epistemicide is the killing, silencing, annihilation, or devaluing of a knowledge system. Epistemicide happens when epistemic injustices are persistent, systematic, and collectively work as a structured oppression of particular ways of knowing. Addressing epistemicide is critical for information professionals because we task ourselves with handling knowledge from every field. There has to be a reckoning before the paradigm can truly shift; if there is no acknowledgement of injustice, there is no room for justice."
+abstract: "This study explores the experiences of community college librarians in the United States with instructional responsibility, as they negotiate professional guidelines that challenge their existing practices. Community college environments, students, and programs differ significantly from those typically explored in information literacy research. Thus, the study gives voice to a relatively marginalized set of librarians, many of whom struggle to implement instructional approaches perceived to be more suitable for university contexts."
 
-date: "2021-06-28T12:30:00Z"
+date: "2021-06-10T14:30:00Z"
+date_end: "2021-06-10T15:00:00Z"
 
 all_day: false
 
 publishDate: "2021-05-18T00:00:00Z"
 
 authors:
-- Beth Patin
+- Heidi Julien
+- Melissa Gross
+- Don Latham
 
 featured: false
 

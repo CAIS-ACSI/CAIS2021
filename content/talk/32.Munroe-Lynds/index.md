@@ -1,20 +1,21 @@
 ---
-title: "Unexpected and Overlooked: Understanding Epistemicide in Information Science"
+title: "Information Literacy in Nova Scotia: Systematic Mapping of High School Learning Outcomes"
 event: CAIS2021
 event_url: ../../program/
 
 location: https://zoom.us/j/96815079086
 
-abstract: "This year's conference theme asks us to re-examine our work by seeking overlooked, under-cited, and emergent voices and scholarship, and transformative methodologies, partnerships, and relationships within and beyond our field. Indeed, the information professions need a paradigmatic shift to examine the ways we have systematically undermined knowledge systems falling outside of Western traditions. Epistemicide is the killing, silencing, annihilation, or devaluing of a knowledge system. Epistemicide happens when epistemic injustices are persistent, systematic, and collectively work as a structured oppression of particular ways of knowing. Addressing epistemicide is critical for information professionals because we task ourselves with handling knowledge from every field. There has to be a reckoning before the paradigm can truly shift; if there is no acknowledgement of injustice, there is no room for justice."
+abstract: "Information literacy has never been more important for the functioning of the democratic process, and for autonomy over one’s decisions. The Association for College and Research Libraries (ACRL) created a framework for information literacy, which lists six threshold concepts that an information literate individual possesses. This paper seeks to identify information literacy embedded in the Nova Scotia high school curriculum learning outcomes. Information literacy threshold concepts were mapped in the learning outcomes using qualitative coding. Findings from this study will reveal strengths and weaknesses in IL competencies in the Nova Scotia high school courses. This study also provides recommendation for future research."
 
-date: "2021-06-28T12:30:00Z"
+date: "2021-06-10T13:30:00Z"
+date_end: "2021-06-10T14:00:00Z"
 
 all_day: false
 
 publishDate: "2021-05-18T00:00:00Z"
 
 authors:
-- Beth Patin
+- Cora-Lynn Munroe-Lynds
 
 featured: false
 

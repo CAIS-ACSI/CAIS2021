@@ -1,20 +1,21 @@
 ---
-title: "Unexpected and Overlooked: Understanding Epistemicide in Information Science"
+title: "“Northern Relations”: Collaborating “In a Good Way” to Develop the Inuvialuit Digital Library Metadata Framework"
 event: CAIS2021
 event_url: ../../program/
 
 location: https://zoom.us/j/96815079086
 
-abstract: "This year's conference theme asks us to re-examine our work by seeking overlooked, under-cited, and emergent voices and scholarship, and transformative methodologies, partnerships, and relationships within and beyond our field. Indeed, the information professions need a paradigmatic shift to examine the ways we have systematically undermined knowledge systems falling outside of Western traditions. Epistemicide is the killing, silencing, annihilation, or devaluing of a knowledge system. Epistemicide happens when epistemic injustices are persistent, systematic, and collectively work as a structured oppression of particular ways of knowing. Addressing epistemicide is critical for information professionals because we task ourselves with handling knowledge from every field. There has to be a reckoning before the paradigm can truly shift; if there is no acknowledgement of injustice, there is no room for justice."
+abstract: "Digital libraries are online platforms for organizing, sharing, and providing access to resources. Ideally, they are developed by, with, and for specific user communities. Metadata frameworks, as integral components of digital libraries, should also reflect the needs and serve the interests of those communities. In this paper I report on one aspect of my doctoral research which involved working collaboratively, respectfully, and appropriately with members of the Inuvialuit community in the northwestern part of Canada to explore and articulate a culturally responsive metadata framework for their digital library of cultural resources. "
 
-date: "2021-06-28T12:30:00Z"
+date: "2021-06-09T15:00:00Z"
+date_end: "2021-06-09T15:30:00Z"
 
 all_day: false
 
 publishDate: "2021-05-18T00:00:00Z"
 
 authors:
-- Beth Patin
+- Sharon Farnel
 
 featured: false
 
