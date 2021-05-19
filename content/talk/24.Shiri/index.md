@@ -1,5 +1,5 @@
 ---
-title: "Indigenous Digital Storytelling for Cultural Heritage Access and Preservation"
+title: "Indigenous digital storytelling for cultural heritage access and preservation"
 event: CAIS2021
 event_url: ../../program/
 

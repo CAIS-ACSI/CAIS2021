@@ -1,5 +1,5 @@
 ---
-title: "“We’re Still Open”: Canadian News Media’s Framing of Canadian Public Libraries’ Covid-19 Responses"
+title: "“We’re still open”: Canadian news media’s framing of Canadian public libraries’ Covid-19 responses"
 event: CAIS2021
 event_url: ../../program/
 

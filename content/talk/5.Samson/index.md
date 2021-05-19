@@ -1,5 +1,5 @@
 ---
-title: "Contemplative Inquiry: A Novel Research Methodology for Information Science"
+title: "Contemplative inquiry: A novel research methodology for information science"
 event: CAIS2021
 event_url: ../../program/
 

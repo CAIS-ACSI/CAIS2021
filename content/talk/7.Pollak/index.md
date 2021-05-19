@@ -1,5 +1,5 @@
 ---
-title: "The Role of Human Information Behaviour in Resilience and Recovery"
+title: "The role of human information behaviour in resilience and recovery"
 event: CAIS2021
 event_url: ../../program/
 

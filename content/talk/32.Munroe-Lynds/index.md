@@ -1,5 +1,5 @@
 ---
-title: "Information Literacy in Nova Scotia: Systematic Mapping of High School Learning Outcomes"
+title: "Information literacy in Nova Scotia: Systematic mapping of high school learning outcomes"
 event: CAIS2021
 event_url: ../../program/
 

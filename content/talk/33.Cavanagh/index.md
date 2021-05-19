@@ -1,5 +1,5 @@
 ---
-title: "Information Literacy from High School to University: Report of the Ontario School Library Impact Project (OSLIP)"
+title: "Information literacy from high school to university: Report of the Ontario School Library Impact Project (OSLIP)"
 event: CAIS2021
 event_url: ../../program/
 

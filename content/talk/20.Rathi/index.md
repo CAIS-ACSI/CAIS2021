@@ -1,5 +1,5 @@
 ---
-title: "Use of Twitter by a Public Library during the Pandemic"
+title: "Use of Twitter by a public library during the pandemic"
 event: CAIS2021
 event_url: ../../program/
 

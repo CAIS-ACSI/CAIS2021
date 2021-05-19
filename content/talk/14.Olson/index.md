@@ -1,5 +1,5 @@
 ---
-title: "Is Archival Scholarship for Everybody? A Bibliometric Analysis of Gender and Knowledge Production in the Archival Field, 1981 - 2019"
+title: "Is archival scholarship for everybody? A bibliometric analysis of gender and knowledge production in the archival field, 1981 - 2019"
 event: CAIS2021
 event_url: ../../program/
 

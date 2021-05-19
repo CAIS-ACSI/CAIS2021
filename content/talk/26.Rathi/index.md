@@ -1,5 +1,5 @@
 ---
-title: "Decolonization and Reconciliation work in Public Libraries: An Analysis of Strategic Plans"
+title: "Decolonization and reconciliation work in public libraries: An analysis of strategic plans"
 event: CAIS2021
 event_url: ../../program/
 

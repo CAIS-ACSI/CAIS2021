@@ -1,5 +1,5 @@
 ---
-title: "A Bibliometric Analysis of Race-Related Research in LIS"
+title: "A bibliometric analysis of race-related research in LIS"
 event: CAIS2021
 event_url: ../../program/
 

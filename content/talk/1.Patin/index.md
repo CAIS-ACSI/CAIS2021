@@ -1,5 +1,5 @@
 ---
-title: "Unexpected and Overlooked: Understanding Epistemicide in Information Science"
+title: "Unexpected and overlooked: Understanding epistemicide in information science"
 event: CAIS2021
 event_url: ../../program/
 

@@ -1,5 +1,5 @@
 ---
-title: "Reading the Silence: Canadian Library Responses to Racial Injustice"
+title: "Reading the silence: Canadian library responses to racial injustice"
 event: CAIS2021
 event_url: ../../program/
 

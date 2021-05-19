@@ -1,5 +1,5 @@
 ---
-title: "Perspectives on Telehealth Projects in Northern Communities: Lessons Learned for Decolonized Participatory Design and Assessment"
+title: "Perspectives on telehealth projects in northern communities: Lessons learned for decolonized participatory design and assessment"
 event: CAIS2021
 event_url: ../../program/
 

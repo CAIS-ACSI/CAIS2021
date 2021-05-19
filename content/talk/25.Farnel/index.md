@@ -1,5 +1,5 @@
 ---
-title: "“Northern Relations”: Collaborating “In a Good Way” to Develop the Inuvialuit Digital Library Metadata Framework"
+title: "“Northern relations”: Collaborating “in a good way” to develop the Inuvialuit digital library metadata framework"
 event: CAIS2021
 event_url: ../../program/
 

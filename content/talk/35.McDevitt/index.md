@@ -1,5 +1,5 @@
 ---
-title: "Educating and Empowering Teen Activists in Public Libraries: A Case Study of the Impact of Reading on Young Adult Social Justice Actions"
+title: "Educating and empowering teen activists in public libraries: A case study of the impact of reading on young adult social justice actions"
 event: CAIS2021
 event_url: ../../program/
 
