@@ -10,20 +10,6 @@ superuser: false
 **June 7 – 10, 2021**
 <br>
 
-Library and information science is a diverse and relational field, one where different research streams, communities, and cultures meet. However, research, scholarship, pedagogy, and inquiry in information science often centres on the theories, ideas, and practices that have become well-established and privileged. In this time of great change in our communities, cultures, and society, our expectations of “normal” have been ruptured. This contemporary moment simultaneously invites us to re-examine our work by seeking overlooked, under-cited, and emergent voices and scholarship, and transformative methodologies, partnerships, and relationships within and beyond our field. “Northern Relations” calls us to consider both the intergenerational impacts of our work in terms of leadership and pedagogy as well as the constellations of information science that guide us to the emergent, networked, rhizomatic, and connected ideas that take us to literal and metaphorical unexpected and overlooked places and spaces. Facilitating and caring for relations with people, ideas, and non-humans from these entangled, unexpected, and overlooked places and spaces contributes to a resilient and vibrant field in education, research, and practice. 
-<br><br>
-Under our conference theme of “Northern Relations: Connecting the Unexpected and Overlooked to Information Science”, we invite researchers, practitioners, and students in library and information science and cognate fields to consider entangled, emergent, unexpected, intriguing, and novel aspects of scholarship, research, theory, and practice that offer diverse and inclusive perspectives on data, information, knowledge, libraries, pedagogy, place, space, and communities. 
-<br><br>
-Submissions may cover topics including but not necessarily limited to the following:
-- Emergent or overlooked perspectives in library and information research and practices
-- Decolonizing, anti-racist, and critical approaches to pedagogy in LIS
-- Novel or intriguing methodologies, theories, frameworks, or models from within and beyond the field
-- Accountability, responsibility, and taking care of relations in LIS research and practice
-- Connected or networked views of data, information, and knowledge as they are entangled with people, communities, and society
-- Relational, interdisciplinary, and intersectional research, theory, and practice that facilitates equity, diversity, and inclusion
-<br>
-
-
 # Program
 
 <center>zoom link for all sessions: <a href="https://zoom.us/j/96815079086">https://zoom.us/j/96815079086</a></center>
