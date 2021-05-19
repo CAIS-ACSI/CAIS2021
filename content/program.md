@@ -48,7 +48,7 @@ header:
   </tr>
   <tr>
     <td>15:30-16:00</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/4.Leader/">Perspectives on telehealth projects in northern communities: Lessons learned for decolonized participatory design and Assessment</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/4.Leader/">Perspectives on telehealth projects in northern communities: Lessons learned for decolonized participatory design and assessment</a></strong><br>
         <i>Joelena Leader, Abby Goodrum</i>
     </td>
   </tr>
