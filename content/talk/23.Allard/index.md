@@ -1,20 +1,25 @@
 ---
-title: "Unexpected and Overlooked: Understanding Epistemicide in Information Science"
+title: "Ethical accountability and high-stakes recordkeeping: Discussions from the Sex Work Activist Histories Project"
 event: CAIS2021
 event_url: ../../program/
 
 location: https://zoom.us/j/96815079086
 
-abstract: "This year's conference theme asks us to re-examine our work by seeking overlooked, under-cited, and emergent voices and scholarship, and transformative methodologies, partnerships, and relationships within and beyond our field. Indeed, the information professions need a paradigmatic shift to examine the ways we have systematically undermined knowledge systems falling outside of Western traditions. Epistemicide is the killing, silencing, annihilation, or devaluing of a knowledge system. Epistemicide happens when epistemic injustices are persistent, systematic, and collectively work as a structured oppression of particular ways of knowing. Addressing epistemicide is critical for information professionals because we task ourselves with handling knowledge from every field. There has to be a reckoning before the paradigm can truly shift; if there is no acknowledgement of injustice, there is no room for justice."
+abstract: "Including both academic and sex work activist community partners, panel members will discuss established and developing practices and key findings from the Sex Work Activist Histories Projects’ first two years as we collected and  archived sex work activist histories. We draw from feminist and Indigenous frameworks of ethical, affective, and relational accountability (among groups, between academics and non-academics involved in the project, and between people and their records/histories) to productively consider how project relationships might be cultivated that are mutually accountable to the varied and complex analytical and affective positionalities of project members as they work togeth"
 
-date: "2021-06-28T12:30:00Z"
+date: "2021-06-09T12:30:00Z"
+date_end: "2021-06-09T14:00:00Z"
 
 all_day: false
 
 publishDate: "2021-05-18T00:00:00Z"
 
 authors:
-- Beth Patin
+- Danielle Allard
+- Amy Lebovitch
+- Jenn Clamen
+- Shawna Ferris
+- Micheline Hughes
 
 featured: false
 

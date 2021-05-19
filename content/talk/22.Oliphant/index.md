@@ -1,20 +1,25 @@
 ---
-title: "Unexpected and Overlooked: Understanding Epistemicide in Information Science"
+title: "Naming patron-perpetrated sexual harassment in libraries"
 event: CAIS2021
 event_url: ../../program/
 
 location: https://zoom.us/j/96815079086
 
-abstract: "This year's conference theme asks us to re-examine our work by seeking overlooked, under-cited, and emergent voices and scholarship, and transformative methodologies, partnerships, and relationships within and beyond our field. Indeed, the information professions need a paradigmatic shift to examine the ways we have systematically undermined knowledge systems falling outside of Western traditions. Epistemicide is the killing, silencing, annihilation, or devaluing of a knowledge system. Epistemicide happens when epistemic injustices are persistent, systematic, and collectively work as a structured oppression of particular ways of knowing. Addressing epistemicide is critical for information professionals because we task ourselves with handling knowledge from every field. There has to be a reckoning before the paradigm can truly shift; if there is no acknowledgement of injustice, there is no room for justice."
+abstract: "Patron-perpetrated sexual harassment (PPSH) is increasingly recognized as a significant problem in the field of library and information studies (LIS) but is often described and treated as “unfortunate” and “part of the job.” The results from a large-scale survey (505 responses) where participants described incidents of PPSH in the workplace support widely held public statements  that define PPSH as a form of gender-based violence (GBV), insisting that it must be named and treated as such. Naming PPSH as sexual harassment and a form of GBV has important implications for library workers, library workplaces, and the broader field of LIS."
 
-date: "2021-06-28T12:30:00Z"
+date: "2021-06-09T11:00:00Z"
+date_end: "2021-06-09T11:30:00Z"
 
 all_day: false
 
 publishDate: "2021-05-18T00:00:00Z"
 
 authors:
-- Beth Patin
+- Tami Oliphant
+- Danielle Allard
+- Angela Lieu
+- Karla Mallach
+
 
 featured: false
 
