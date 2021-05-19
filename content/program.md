@@ -25,7 +25,7 @@ header:
   <tr>
     <td>Keynote</td>
     <td>12:30-14:00</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/1.Patin/">Unexpected and Overlooked: Understanding Epistemicide in Information Science</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/1.Patin/">Unexpected and overlooked: Understanding epistemicide in information science</a></strong><br>
         <i>Beth Patin</i>
     </td>
   </tr>
@@ -36,19 +36,19 @@ header:
   <tr>
     <td rowspan=3>Best papers</td>
     <td>14:30-15:00</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/2.Mongeon/">A Bibliometric Analysis of Race-Related Research in LIS</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/2.Mongeon/">A bibliometric analysis of race-related research in LIS</a></strong><br>
         <i>Philippe Mongeon, Alison Brown, Ratna Dhaliwal, Jessalyn Hill, Amber Matthews</i>
     </td>
   </tr>
   <tr>
     <td>15:00-15:30</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/3.Matthews/">Reading the Silence: Canadian Library Responses to Racial Injustice</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/3.Matthews/">Reading the silence: Canadian library responses to racial injustice</a></strong><br>
         <i>Amber Matthews</i>
     </td>
   </tr>
   <tr>
     <td>15:30-16:00</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/4.Leader/">Perspectives on Telehealth Projects in Northern Communities: Lessons Learned for Decolonized Participatory Design and Assessment</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/4.Leader/">Perspectives on telehealth projects in northern communities: Lessons learned for decolonized participatory design and Assessment</a></strong><br>
         <i>Joelena Leader, Abby Goodrum</i>
     </td>
   </tr>
@@ -61,9 +61,9 @@ header:
     <th>Presentation</th>
   </tr>
   <tr>
-    <td rowspan=4>Serendipity and Contemplation</td>
+    <td rowspan=4>Serendipity and contemplation</td>
     <td>9:30-10:00</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/5.Samson/">Contemplative Inquiry: A Novel Research Methodology for Information Science</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/5.Samson/">Contemplative inquiry: A novel research methodology for information science</a></strong><br>
         <i>Hugh Samson</i>
     </td>
   </tr>
@@ -75,13 +75,13 @@ header:
   </tr>
   <tr>
     <td>10:30-11:00</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/7.Pollak/">The Role of Human Information Behaviour in Resilience and Recovery</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/7.Pollak/">The role of human information behaviour in resilience and recovery</a></strong><br>
         <i>Angela Pollak, Julia Hersberger, Shelbi Webb</i>
     </td>
   </tr>
   <tr>
     <td>11:00-11:30</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/8.Roberts/">Many Paths: Curiosity as Transformative Process</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/8.Roberts/">Many tpaths: Curiosity as transformative process</a></strong><br>
         <i>Linds Roberts</i>
     </td>
   </tr>
@@ -91,7 +91,7 @@ header:
   </tr>
   <tr>
     <td>Panel</td>
-    <td>12:30-13:00</td>
+    <td>12:30-14:00</td>
     <td><strong><a href="https://www.cais2021.ca/talk/9.Hartel/">Finding sanctuary and strength in the LIS classroom</a></strong><br>
         <i>Jenna Hartel, Kiersten F. Latham, Beck Tench, Hugh Samson, Hailey Siracky, and Roger Chabot</i>
     </td>
@@ -119,7 +119,7 @@ header:
     </td>
   </tr>
   <tr>
-    <td><strong><a href="https://www.cais2021.ca/talk/14.Olson/">Is Archival Scholarship for Everybody? A Bibliometric Analysis of Gender and Knowledge Production in the Archival Field, 1981 - 2019</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/14.Olson/">Is archival scholarship for everybody? A bibliometric analysis of gender and knowledge production in the archival field, 1981 - 2019</a></strong><br>
         <i>Lisa Olson, Jordan Audas, Grace Bourret, Kendell Fitzgerald, Ana Roeschley, Philippe Mongeon</i>
     </td>
   </tr>
