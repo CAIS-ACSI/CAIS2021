@@ -104,7 +104,7 @@ header:
     </td>
   </tr>
   <tr>
-    <td><strong><a href="https://www.cais2021.ca/talk/11.Fitzgerald/">The established archives: a bibliometric overview of archival research</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/11.Fitzgerald/">The established archives: A bibliometric overview of archival research</a></strong><br>
         <i>Kendell Fitzgerald, Grace Bourret, Jordan Audas, Lisa Olson, Ana Roeschley, Philippe Mongeon</i>
     </td>
   </tr>
@@ -114,7 +114,7 @@ header:
     </td>
   </tr>
   <tr>
-    <td><strong><a href="https://www.cais2021.ca/talk/13.VanderKooy/">A whole new world : Investigating the use of social media by the Vancouver Public Library to deliver services during the COVID-19 pandemic</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/13.VanderKooy/">A whole new world: Investigating the use of social media by the Vancouver Public Library to deliver services during the COVID-19 pandemic</a></strong><br>
         <i>Sam Vander Kooy</i>
     </td>
   </tr>
@@ -216,7 +216,7 @@ header:
   <tr>
     <td rowspan=2>Information policy</td>
     <td>9:30-10:00</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/27.Melnick/">The intersection of shark research, policy and the public: a bibliometric and altmetric view</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/27.Melnick/">The intersection of shark research, policy and the public: A bibliometric and altmetric view</a></strong><br>
         <i>Kory Melnick, Tamanna Moharana, Rémi Toupin, Pallavi Gone, Bertrum MacDonald, Philippe Mongeon</i>
     </td>
   </tr>
