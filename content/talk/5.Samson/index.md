@@ -1,20 +1,20 @@
 ---
-title: "Unexpected and Overlooked: Understanding Epistemicide in Information Science"
+title: "Contemplative Inquiry: A Novel Research Methodology for Information Science"
 event: CAIS2021
 event_url: ../../program/
 
 location: https://zoom.us/j/96815079086
 
-abstract: "This year's conference theme asks us to re-examine our work by seeking overlooked, under-cited, and emergent voices and scholarship, and transformative methodologies, partnerships, and relationships within and beyond our field. Indeed, the information professions need a paradigmatic shift to examine the ways we have systematically undermined knowledge systems falling outside of Western traditions. Epistemicide is the killing, silencing, annihilation, or devaluing of a knowledge system. Epistemicide happens when epistemic injustices are persistent, systematic, and collectively work as a structured oppression of particular ways of knowing. Addressing epistemicide is critical for information professionals because we task ourselves with handling knowledge from every field. There has to be a reckoning before the paradigm can truly shift; if there is no acknowledgement of injustice, there is no room for justice."
+abstract: "Contemplative inquiry is an introspective methodology that values first-person perspectives and diverse ways of knowing. This paper introduces contemplative inquiry as a promising methodology for information science research. The methodology is first contextualized within a discussion of research at the crossroads of information and contemplation and then elaborated utilizing examples from the author’s thesis research. Possible contributions of the methodology to information science are subsequently highlighted, as are potential future research applications. It is proposed that adoption of the methodology will offer information science researchers the techniques and tools necessary to explore fundamental questions regarding human contemplative experiences and growth."
 
-date: "2021-06-28T12:30:00Z"
+date: "2021-06-08T09:30:00Z"
 
 all_day: false
 
 publishDate: "2021-05-18T00:00:00Z"
 
 authors:
-- Beth Patin
+- Hugh Samson
 
 featured: false
 
