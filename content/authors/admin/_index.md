@@ -10,9 +10,6 @@ superuser: false
 **June 7 – 10, 2021**
 <br>
 
-### Call for papers
-The Canadian Association for Information Science / l’Association canadienne des sciences de l’information (CAIS/ACSI) invites submissions for its 49th Annual Conference, June 7 – 10, 2021. CAIS/ACSI is planned to take place fully online, hosted by the University of Alberta in Edmonton. 
-<br><br>
 Library and information science is a diverse and relational field, one where different research streams, communities, and cultures meet. However, research, scholarship, pedagogy, and inquiry in information science often centres on the theories, ideas, and practices that have become well-established and privileged. In this time of great change in our communities, cultures, and society, our expectations of “normal” have been ruptured. This contemporary moment simultaneously invites us to re-examine our work by seeking overlooked, under-cited, and emergent voices and scholarship, and transformative methodologies, partnerships, and relationships within and beyond our field. “Northern Relations” calls us to consider both the intergenerational impacts of our work in terms of leadership and pedagogy as well as the constellations of information science that guide us to the emergent, networked, rhizomatic, and connected ideas that take us to literal and metaphorical unexpected and overlooked places and spaces. Facilitating and caring for relations with people, ideas, and non-humans from these entangled, unexpected, and overlooked places and spaces contributes to a resilient and vibrant field in education, research, and practice. 
 <br><br>
 Under our conference theme of “Northern Relations: Connecting the Unexpected and Overlooked to Information Science”, we invite researchers, practitioners, and students in library and information science and cognate fields to consider entangled, emergent, unexpected, intriguing, and novel aspects of scholarship, research, theory, and practice that offer diverse and inclusive perspectives on data, information, knowledge, libraries, pedagogy, place, space, and communities. 
@@ -26,51 +23,296 @@ Submissions may cover topics including but not necessarily limited to the follow
 - Relational, interdisciplinary, and intersectional research, theory, and practice that facilitates equity, diversity, and inclusion
 <br>
 
-We invite papers, panels, and poster submissions representing diverse topics and methods related (but not limited) to the above theme. We particularly encourage individuals to submit papers, panels, and posters with further connections to “Northern Relations”; and that emphasize, support, and facilitate equity, diversity, inclusion, intersectionality, truth and reconciliation, and/or decolonization.
 
-### Types of proposals
-CAIS/ACSI welcomes proposals reporting on empirical, theoretical, and practice-based research. Proposals may be submitted in English or French.
-<br><br>
-**Papers**: 20-minute oral presentations of completed or well-developed projects on topics suitable for publication in scholarly journals. Proposals reporting on completed or ongoing research will be given preference. Diverse and innovative perspectives (theoretical and applied) and methodologies are welcome. Proposals should be in the form of an extended abstract (approximately 1000-1500 words excluding references). Please use this <a href="http://cais-acsi.ca/wp-content/uploads/2019/10/CAIS-ACSI-2020-Abstract-Template.docx" target="_blank">template</a>. (note: if you are having difficulties downloading the template, try opening the link in a new window or tab, or using the _save as_ function).
-<br><br>
-**Panels**: 90-minute oral presentations from three or more authors on emerging domains, trends, or contrasting viewpoints, including time for questions or discussion. Panels are an opportunity to engage in discussion of shared concerns, including those not available in completed research or yet adequately recognized. Proposals should not be simply a set of related paper presentations; we encourage proposals that offer creative and unique opportunities for engagement and discussion with the audience as part of the panel session. We recommend three to five panelists plus a moderator; there will be an opportunity to modify the list of panelists after acceptance. Proposals should be in the form of an extended abstract (approximately 1000-1500 words excluding references), that identifies the topic to be discussed, provides an overview of the structure of the panel, and includes relevant qualifications and contributions of each participating panelist. Please use this [template](http://cais-acsi.ca/wp-content/uploads/2019/10/CAIS-ACSI-2020-Abstract-Template.docx). (note: if you are having difficulties downloading the template, try opening the link in a new window or tab, or using the _save as_ function).
-<br><br>
-**Posters**: Visual presentations of projects at any stage of development on topics suitable for publication in scholarly journals. Diverse perspectives (theoretical and applied) and methodologies are welcomed. Proposals should be in the form of a short abstract (maximum 750 words excluding references), reporting on research projects, theoretical developments or innovative practical applications. Presenters of accepted posters will also be invited to provide a 2-3-minute video overview of their work. Please use this <a href="http://cais-acsi.ca/wp-content/uploads/2019/10/CAIS-ACSI-2020-Abstract-Template.docx" target="_blank">template</a> (note: if you are having difficulties downloading the template, try opening the link in a new window or tab, or using the _save as_ function).
-<br><br>
-**Student-to-CAIS/ACSI and Best Paper by a Practitioner Awards**: Paper proposals by graduate students and practitioners will be considered for these awards. The Student-to-CAIS/ACSI award includes a monetary prize. Both awardees will have the opportunity to publish the full manuscript in the *Canadian Journal of Information and Library Science / La Revue canadienne des sciences de l’information et de bibliothéconomie*. In order to be considered for these awards, please indicate if you are a student or practitioner when submitting your proposal. Winners will be selected based on their extended abstracts. Details of the award, including previous winners, can be found at the CAIS/ACSI website at www.cais-acsi.ca.
-<br><br>
-Proposals will be evaluated on theory/methodology, clarity, impact/originality, and overall quality. Proposals will be received and reviewed using the OJS system: https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions. If you run into issues submitting your paper, poster, or panel through OJS by the submission date, please submit instead by email to Robyn Stobbs (stobbs@ualberta.ca) with “CAIS 2021” as the subject line.
-<br><br>
-**Student Research Forum**: We are pleased to invite master’s and doctoral students to CAIS’s Student Research Forum. The Forum’s goal is to provide graduate students with an opportunity to present and discuss their research project, get feedback from senior researchers, and make connections with other master’s and doctoral students. Students at any stage of their graduate program are invited to submit to the Forum.
-<br><br>
-Please be prepared to present informally on an aspect of your research for 5-10 minutes, which will be followed by discussion. More details will be provided upon acceptance.
-<br><br>
-To participate, please fill out the following [submission form](https://docs.google.com/forms/d/e/1FAIpQLSdLg4QDkFUgfzT9D2Uq-aoW0SYUUP1q9K_tNhcvMoZdDc8LmA/viewform?usp=sf_link).
-<br><br>
-The submission deadline for all proposals is ~~January 22~~ **February 2, 2021, midnight Pacific Time**.
-<br><br>
-Authors will be notified no later than ~~March 1~~ March 12, 2021. Final versions must be submitted no later than ~~April 30~~ May 11, 2021, and will then be published on the conference website and in the conference proceedings. Authors are also encouraged to submit full papers to the Canadian Journal of Information and Library Science / La Revue canadienne des sciences de l’information et de bibliothéconomie.
-<br><br>
-Initial submissions should be scrubbed of identifying information for double-blind peer review.
-<br><br>
-Registration: The conference will be free and open to all, with no registration necessary.
-<br><br>
-For further information, please contact the CAIS/ACSI 2021 Conference Co-Chairs:
-<br><br>
-**Tami Oliphant**<br>
-Associate Professor, School of Library and Information Studies<br>
-University of Alberta<br>
-toliphan@ualberta.ca <br>
-<br>
-**Adam Worrall** <br>
-Assistant Professor, School of Library and Information Studies<br>
-University of Alberta<br>
-worrall@ualberta.ca<br>
-<br>
-**Robyn Stobbs**<br>
-Research Data Management Librarian, Athabasca University<br>
-PhD Candidate, Human Ecology & Library and Information Studies<br>
-University of Alberta<br>
-stobbs@ualberta.ca
+# Program
 
-
+<center>zoom link for all sessions: <a href="https://zoom.us/j/96815079086">https://zoom.us/j/96815079086</a></center>
+<center>Note that all times are in <strong>Mountain Daylight Time (MDT)</strong></center><br>
+<table style="width:100%">
+  <tr>
+      <td colspan=3 style="font-size:20px"><strong>Day 1 - Monday, June 7</strong> </td>
+  </tr>
+  <tr>
+    <th style="width:20%">Session</th>
+    <th style="width:20%">Time (MDT)</th>
+    <th style="width:60%">Presentation</th>
+  </tr>
+  <tr>
+    <td>Keynote</td>
+    <td>12:30pm - 2:00pm</td>
+    <td><strong><a href="https://www.cais2021.ca/talk/1.Patin/">Unexpected and overlooked: Understanding epistemicide in information science</a></strong><br>
+        <i>Beth Patin</i>
+    </td>
+  </tr>
+  <tr>
+    <td>Break</td>
+    <td colspan=2>2:00pm - 2:30pm</td>
+  </tr>
+  <tr>
+    <td rowspan=3>Best papers</td>
+    <td>2:30pm - 3:00pm</td>
+    <td><strong><a href="https://www.cais2021.ca/talk/2.Mongeon/">A bibliometric analysis of race-related research in LIS</a></strong><br>
+        <i>Philippe Mongeon, Alison Brown, Ratna Dhaliwal, Jessalyn Hill, Amber Matthews</i>
+    </td>
+  </tr>
+  <tr>
+    <td>3:00pm - 3:30pm</td>
+    <td><strong><a href="https://www.cais2021.ca/talk/3.Matthews/">Reading the silence: Canadian library responses to racial injustice</a></strong><br>
+        <i>Amber Matthews</i>
+    </td>
+  </tr>
+  <tr>
+    <td>3:30pm - 4:00pm</td>
+    <td><strong><a href="https://www.cais2021.ca/talk/4.Leader/">Perspectives on telehealth projects in northern communities: Lessons learned for decolonized participatory design and assessment</a></strong><br>
+        <i>Joelena Leader, Abby Goodrum</i>
+    </td>
+  </tr>
+  <tr>
+      <td colspan=3 style="font-size:20px"><strong><font>Day 2 - Tuesday, June 8</font></strong></td>
+  </tr>
+  <tr>
+    <th>Session</th>
+    <th>Time (MDT)</th>
+    <th>Presentation</th>
+  </tr>
+  <tr>
+    <td rowspan=4>Serendipity and contemplation</td>
+    <td>9:30am - 10:00am</td>
+    <td><strong><a href="https://www.cais2021.ca/talk/5.Samson/">Contemplative inquiry: A novel research methodology for information science</a></strong><br>
+        <i>Hugh Samson</i>
+    </td>
+  </tr>
+  <tr>
+    <td>10:00am - 10:30am</td>
+      <td><strong><a href="https://www.cais2021.ca/talk/6.Agarwal/">Aha! Librarians’ predisposition for information encountering and serendipity in the workplace</a></strong><br>
+        <i>Naresh Kumar Agarwal, Yuan Ho Huang, Sanda Erdelez</i>
+    </td>
+  </tr>
+  <tr>
+    <td>10:30am - 11:00am</td>
+    <td><strong><a href="https://www.cais2021.ca/talk/7.Pollak/">The role of human information behaviour in resilience and recovery</a></strong><br>
+        <i>Angela Pollak, Julia Hersberger, Shelbi Webb</i>
+    </td>
+  </tr>
+  <tr>
+    <td>11:00am - 11:30am</td>
+    <td><strong><a href="https://www.cais2021.ca/talk/8.Roberts/">Many paths: Curiosity as transformative process</a></strong><br>
+        <i>Linds Roberts</i>
+    </td>
+  </tr>
+  <tr>
+    <td>Lunch break and social</td>
+    <td colspan=2>11:30am - 12:30pm</td>
+  </tr>
+  <tr>
+    <td>Panel</td>
+    <td>12:30pm - 2:00pm</td>
+    <td><strong><a href="https://www.cais2021.ca/talk/9.Hartel/">Finding sanctuary and strength in the LIS classroom</a></strong><br>
+        <i>Jenna Hartel, Kiersten F. Latham, Beck Tench, Hugh Samson, Hailey Siracky, and Roger Chabot</i>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan=9>Poster Session</td>
+    <td rowspan=9>2:30pm - 4:00pm</td>
+    <td><strong><a href="https://www.cais2021.ca/talk/10.Stobbs/">“I’ll just make sure we’re all on the same page”: Talking fictional worlds into being</a></strong><br>
+        <i>Robyn Stobbs, Arlene Oak</i>
+    </td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://www.cais2021.ca/talk/11.Fitzgerald/">The established archives: A bibliometric overview of archival research</a></strong><br>
+        <i>Kendell Fitzgerald, Grace Bourret, Jordan Audas, Lisa Olson, Ana Roeschley, Philippe Mongeon</i>
+    </td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://www.cais2021.ca/talk/12.Saiyera/">Assessing the loss of Western Canadian digital heritage</a></strong><br>
+        <i>Tasbire Saiyera, Brenda Reyes Ayala, Qiufeng Du</i>
+    </td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://www.cais2021.ca/talk/13.VanderKooy/">A whole new world: Investigating the use of social media by the Vancouver Public Library to deliver services during the COVID-19 pandemic</a></strong><br>
+        <i>Sam Vander Kooy</i>
+    </td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://www.cais2021.ca/talk/14.Olson/">Is archival scholarship for everybody? A bibliometric analysis of gender and knowledge production in the archival field, 1981 - 2019</a></strong><br>
+        <i>Lisa Olson, Jordan Audas, Grace Bourret, Kendell Fitzgerald, Ana Roeschley, Philippe Mongeon</i>
+    </td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://www.cais2021.ca/talk/15.Hill/">Public library staff experiences of accommodation in the workplace</a></strong><br>
+        <i>Heather Hill</i>
+    </td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://www.cais2021.ca/talk/16.Beraldo">From “a great counter attraction to the ale-house and low music hall” to “the one place everybody goes”: the public library in The Globe and Mail, 1860 -2016</a></strong><br>
+        <i>Sofia Beraldo, Chelsea Coubry-Forte, Katrina Desjardins, Erin Isings, Kate McCandless, Pam McKenzie</i>
+    </td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://www.cais2021.ca/talk/17.Mansourian/">“Hide, stay still and listen carefully”: Birdwatchers’ information seeking and sharing on YouTube</a></strong><br>
+        <i>Yazdan Mansourian</i>
+    </td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://www.cais2021.ca/talk/18.Cole/">Multi-method experience sampling in information behaviour research</a></strong><br>
+        <i>Amelia W. Cole, Kelsey Urgo</i>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=3 style="font-size:20px"><strong><font>Day 3 - Wednesday, June 9</font></strong></td>
+  </tr>
+  <tr>
+    <th>Session</th>
+    <th>Time (MDT)</th>
+    <th>Presentation</th>
+  </tr>
+  <tr>
+    <td rowspan=4>Public libraries, media, and gender</td>
+    <td>9:30am - 10:00am</td>
+    <td><strong><a href="https://www.cais2021.ca/talk/19.VanderKooy/">#LibraryLife: A quantitative analysis of social media usage, content, and engagement at the Vancouver Public Library</a></strong><br>
+        <i>Sam A. Vander Kooy</i>
+    </td>
+  </tr>
+  <tr>
+    <td>10:00am - 10:30am</td>
+      <td><strong><a href="https://www.cais2021.ca/talk/20.Rathi/">Use of Twitter by a public library during the pandemic</a></strong><br>
+        <i>Dinesh Rathi</i>
+    </td>
+  </tr>
+  <tr>
+    <td>10:30am - 11:00am</td>
+    <td><strong><a href="https://www.cais2021.ca/talk/21.Dalmer/">“We’re still open”: Canadian news media’s framing of Canadian public libraries’ Covid-19 responses</a></strong><br>
+        <i>Nicole Dalmer, Meridith Griffin</i>
+    </td>
+  </tr>
+  <tr>
+    <td>11:00am - 11:30am</td>
+    <td><strong><a href="https://www.cais2021.ca/talk/22.Oliphant/">Naming patron-perpetrated sexual harassment in libraries</a></strong><br>
+        <i>Tami Oliphant, Danielle Allard, Angela Lieu, Karla Mallach</i>
+    </td>
+  </tr>
+  <tr>
+    <td>Lunch break and social</td>
+    <td colspan=2>11:30am- 12:30pm</td>
+  </tr>
+  <tr>
+    <td>Panel</td>
+    <td>12:30pm - 2:00pm</td>
+    <td><strong><a href="https://www.cais2021.ca/talk/23.Allard/">Ethical accountability and high-stakes recordkeeping: Discussions from the Sex Work Activist Histories Project</a></strong><br>
+        <i>Danielle Allard, Amy Lebovitch, Jenn Clamen, Shawna Ferris, Micheline Hughes</i>
+    </td>
+  </tr>
+  <tr>
+    <td>Break</td>
+    <td colspan=2>2:00pm - 2:30pm</td>
+  </tr>
+  <tr>
+    <td rowspan=3>Northern communities</td>
+    <td>2:30pm - 3:00pm</td>
+    <td><strong><a href="https://www.cais2021.ca/talk/24.Shiri/">Indigenous digital storytelling for cultural heritage access and preservation</a></strong><br>
+        <i>Ali Shiri, Deanna Lyn Howard, Sharon Farnel</i>
+    </td>
+  </tr>
+  <tr>
+    <td>3:00pm - 3:30pm</td>
+    <td><strong><a href="https://www.cais2021.ca/talk/25.Farnel/">“Northern relations”: Collaborating “in a good way” to develop the Inuvialuit digital library metadata framework</a></strong><br>
+        <i>Sharon Farnel</i>
+    </td>
+  </tr>
+  <tr>
+    <td>3:30pm - 4:00pm</td>
+    <td><strong><a href="https://www.cais2021.ca/talk/26.Rathi/">Decolonization and reconciliation work in public libraries: An analysis of strategic plans</a></strong><br>
+        <i>Dinesh Rathi</i>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=3 style="font-size:20px"><strong><font>Day 4 - Wednesday, June 10</font></strong></td>
+  </tr>
+  <tr>
+    <td rowspan=2>Information policy</td>
+    <td>9:30am - 10:00am</td>
+    <td><strong><a href="https://www.cais2021.ca/talk/27.Melnick/">The intersection of shark research, policy and the public: A bibliometric and altmetric view</a></strong><br>
+        <i>Kory Melnick, Tamanna Moharana, Rémi Toupin, Pallavi Gone, Bertrum MacDonald, Philippe Mongeon</i>
+    </td>
+  </tr>
+  <tr>
+    <td>10:00am - 10:30am</td>
+    <td><strong><a href="https://www.cais2021.ca/talk/28.Park/">Citizens’ right to privacy and right to information access in smart cities: Evaluating the smart city initiative of West Baltimore</a></strong><br>
+        <i>Sunyup Park</i>
+    </td>
+  </tr>
+  <tr>
+    <td>Break</td>
+    <td colspan=2>10:30am - 11:00am</td>
+  </tr>
+  <tr>
+    <td rowspan=3>Scholarly publishing</td>
+    <td>11:00am - 11:30am</td>
+    <td><strong><a href="https://www.cais2021.ca/talk/29.Munroe-Lynds/">Mapping the Canadian library and information science research landscape</a></strong><br>
+        <i>Cora-Lynn Munroe-Lynds, Marc-André Simard, Vinson Li, Emily McClean, Philippe Mongeon</i>
+    </td>
+  </tr>
+  <tr>
+    <td>11:30am - 12:00pm</td>
+    <td><strong><a href="https://www.cais2021.ca/talk/30.Simard/">The burden of article processing charges on Canadian universities</a></strong><br>
+        <i>Marc-André Simard, Toluwase Asubiaro, Philippe Mongeon</i>
+    </td>
+  </tr>
+  <tr>
+    <td>12:00pm - 12:30pm</td>
+    <td><strong><a href="https://www.cais2021.ca/talk/31.Thornton/">Overlay journals: Overlooked or emergent?</a></strong><br>
+        <i>Gail Thornton and Emily Kroeker</i>
+    </td>
+  </tr>
+  <tr>
+    <td>Lunch break and social</td>
+    <td colspan=2>12:30pm - 1:30pm</td>
+  </tr>
+  <tr>
+    <td rowspan=4>Youth and information literacy</td>
+    <td>1:30pm - 2:00pm</td>
+    <td><strong><a href="https://www.cais2021.ca/talk/32.Munroe-Lynds/">Information literacy in Nova Scotia: Systematic mapping of high school learning outcomes</a></strong><br>
+        <i>Cora-Lynn Munroe-Lynds</i>
+    </td>
+  </tr>
+  <tr>
+    <td>2:00pm - 2:30pm</td>
+    <td><strong><a href="https://www.cais2021.ca/talk/33.Cavanagh/">Information literacy from high school to university: Report of the Ontario School Library Impact Project (OSLIP)</a></strong><br>
+        <i>Mary Cavanagh, Dianne Oberg, Heather Buchansky, Marc d’Avernas: Kate Johnson-McGregor, Sarah Roberts</i>
+    </td>
+  </tr>
+  <tr>
+    <td>2:30pm - 3:00pm</td>
+    <td><strong><a href="https://www.cais2021.ca/talk/34.Julien/">Instruction from the margins: Giving voice to community college librarians</a></strong><br>
+        <i>Heidi Julien, Melissa Gross, Don Latham</i>
+    </td>
+  </tr>
+  <tr>
+    <td>3:00pm - 3:30pm</td>
+    <td><strong><a href="https://www.cais2021.ca/talk/35.McDevitt/">Educating and Empowering teen activists in public libraries: A case study of the impact of reading on young adult social justice actions</a></strong><br>
+        <i>Jennifer McDevitt</i>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=3 style="font-size:20px"><strong><font>Day 5 - Friday, June 11</font></strong></td>
+  </tr>
+  <tr>
+    <th>Session</th>
+    <th>Time (MDT)</th>
+    <th>Event</th>
+  </tr>
+  <tr>
+    <td>Forum</td>
+    <td>9:00am - 11:00am</td>
+    <td><strong>Student Research Forum</strong> (by invitation only)<br>
+        <i>Yaxi Zhao, Alex Mayhew</i>
+    </td>
+  </tr>
+  <tr>
+    <td>AGM</td>
+    <td>1:00pm - 3:00pm</td>
+    <td><strong><a href="https://www.cais2021.ca/talk/36.AGM/">CAIS Annual General Meeting</a></strong><br>
+        <i>Philippe Mongeon</i>
+    </td>
+  </tr>
+</table>
