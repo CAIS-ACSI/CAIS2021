@@ -24,30 +24,30 @@ header:
   </tr>
   <tr>
     <td>Keynote</td>
-    <td>12:30pm - 2:00pm</td>
+    <td>12:30 pm - 2:00 pm</td>
     <td><strong><a href="https://www.cais2021.ca/talk/1.Patin/">Unexpected and overlooked: Understanding epistemicide in information science</a></strong><br>
         <i>Beth Patin</i>
     </td>
   </tr>
   <tr>
     <td>Break</td>
-    <td colspan=2>2:00pm-2:30pm</td>
+    <td colspan=2>2:00pm - 2:30pm</td>
   </tr>
   <tr>
     <td rowspan=3>Best papers</td>
-    <td>14:30-15:00</td>
+    <td>2:30 pm - 3:00 pm</td>
     <td><strong><a href="https://www.cais2021.ca/talk/2.Mongeon/">A bibliometric analysis of race-related research in LIS</a></strong><br>
         <i>Philippe Mongeon, Alison Brown, Ratna Dhaliwal, Jessalyn Hill, Amber Matthews</i>
     </td>
   </tr>
   <tr>
-    <td>15:00-15:30</td>
+    <td>3:00 pm -3:30 pm</td>
     <td><strong><a href="https://www.cais2021.ca/talk/3.Matthews/">Reading the silence: Canadian library responses to racial injustice</a></strong><br>
         <i>Amber Matthews</i>
     </td>
   </tr>
   <tr>
-    <td>15:30-16:00</td>
+    <td>3:30 pm - 4:00 pm</td>
     <td><strong><a href="https://www.cais2021.ca/talk/4.Leader/">Perspectives on telehealth projects in northern communities: Lessons learned for decolonized participatory design and assessment</a></strong><br>
         <i>Joelena Leader, Abby Goodrum</i>
     </td>
@@ -62,43 +62,43 @@ header:
   </tr>
   <tr>
     <td rowspan=4>Serendipity and contemplation</td>
-    <td>9:30-10:00</td>
+    <td>9:30 am - 10:00 am</td>
     <td><strong><a href="https://www.cais2021.ca/talk/5.Samson/">Contemplative inquiry: A novel research methodology for information science</a></strong><br>
         <i>Hugh Samson</i>
     </td>
   </tr>
   <tr>
-    <td>10:00-10:30</td>
+    <td>10:00 am - 10:30 am</td>
       <td><strong><a href="https://www.cais2021.ca/talk/6.Agrawal/">Aha! Librarians’ predisposition for information encountering and serendipity in the workplace</a></strong><br>
         <i>Naresh Kumar Agarwal, Yuan Ho Huang, Sanda Erdelez</i>
     </td>
   </tr>
   <tr>
-    <td>10:30-11:00</td>
+    <td>10:30 am - 11:00 am</td>
     <td><strong><a href="https://www.cais2021.ca/talk/7.Pollak/">The role of human information behaviour in resilience and recovery</a></strong><br>
         <i>Angela Pollak, Julia Hersberger, Shelbi Webb</i>
     </td>
   </tr>
   <tr>
-    <td>11:00-11:30</td>
+    <td>11:00 am - 11:30 am</td>
     <td><strong><a href="https://www.cais2021.ca/talk/8.Roberts/">Many tpaths: Curiosity as transformative process</a></strong><br>
         <i>Linds Roberts</i>
     </td>
   </tr>
   <tr>
     <td>Lunch break and social</td>
-    <td colspan=2>11:30-12:30</td>
+    <td colspan=2>11:30 am - 12:30 pm</td>
   </tr>
   <tr>
     <td>Panel</td>
-    <td>12:30-14:00</td>
+    <td>12:30 pm - 2:00 pm</td>
     <td><strong><a href="https://www.cais2021.ca/talk/9.Hartel/">Finding sanctuary and strength in the LIS classroom</a></strong><br>
         <i>Jenna Hartel, Kiersten F. Latham, Beck Tench, Hugh Samson, Hailey Siracky, and Roger Chabot</i>
     </td>
   </tr>
   <tr>
     <td rowspan=9>Poster Session</td>
-    <td rowspan=9>14:30-16:00</td>
+    <td rowspan=9>2:30 pm - 4:00 pm</td>
     <td><strong><a href="https://www.cais2021.ca/talk/10.Stobbs/">“I’ll just make sure we’re all on the same page”: Talking fictional worlds into being</a></strong><br>
         <i>Robyn Stobbs, Arlene Oak</i>
     </td>
@@ -129,7 +129,7 @@ header:
     </td>
   </tr>
   <tr>
-    <td><strong><a href="https://www.cais2021.ca/talk/16.Beraldo">From “a great counter attraction to the ale-house and low music hall” to “the one place everybody goes”: the public library in The Globe and Mail, 1860-2016</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/16.Beraldo">From “a great counter attraction to the ale-house and low music hall” to “the one place everybody goes”: the public library in The Globe and Mail, 1860 -2016</a></strong><br>
         <i>Sofia Beraldo, Chelsea Coubry-Forte, Katrina Desjardins, Erin Isings, Kate McCandless, Pam McKenzie</i>
     </td>
   </tr>
@@ -153,59 +153,59 @@ header:
   </tr>
   <tr>
     <td rowspan=4>Public libraries, media, and gender</td>
-    <td>9:30-10:00</td>
+    <td>9:30 am - 10:00 am</td>
     <td><strong><a href="https://www.cais2021.ca/talk/19.VanderKooy/">#LibraryLife: A quantitative analysis of social media usage, content, and engagement at the Vancouver Public Library</a></strong><br>
         <i>Sam A. Vander Kooy</i>
     </td>
   </tr>
   <tr>
-    <td>10:00-10:30</td>
+    <td>10:00 am - 10:30 am</td>
       <td><strong><a href="https://www.cais2021.ca/talk/20.Rathi/">Use of Twitter by a public library during the pandemic</a></strong><br>
         <i>Dinesh Rathi</i>
     </td>
   </tr>
   <tr>
-    <td>10:30-11:00</td>
+    <td>10:30 am - 11:00 am</td>
     <td><strong><a href="https://www.cais2021.ca/talk/21.Dalmer/">“We’re still open”: Canadian news media’s framing of Canadian public libraries’ Covid-19 responses</a></strong><br>
         <i>Nicole Dalmer, Meridith Griffin</i>
     </td>
   </tr>
   <tr>
-    <td>11:00-11:30</td>
+    <td>11:00 am - 11:30 am</td>
     <td><strong><a href="https://www.cais2021.ca/talk/22.Oliphant/">Naming patron-perpetrated sexual harassment in libraries</a></strong><br>
         <i>Tami Oliphant, Danielle Allard, Angela Lieu, Karla Mallach</i>
     </td>
   </tr>
   <tr>
     <td>Lunch break and social</td>
-    <td colspan=2>11:30-12:30</td>
+    <td colspan=2>11:30 am - 12:30 pm</td>
   </tr>
   <tr>
     <td>Panel</td>
-    <td>12:30-14:00</td>
+    <td>12:30 -2:00 pm</td>
     <td><strong><a href="https://www.cais2021.ca/talk/23.Allard/">Ethical accountability and high-stakes recordkeeping: Discussions from the Sex Work Activist Histories Project</a></strong><br>
         <i>Danielle Allard, Amy Lebovitch, Jenn Clamen, Shawna Ferris, Micheline Hughes</i>
     </td>
   </tr>
   <tr>
     <td>Break</td>
-    <td colspan=2>14:00-14:30</td>
+    <td colspan=2>2:00 pm - 2:30 pm</td>
   </tr>
   <tr>
     <td rowspan=3>Northern communities</td>
-    <td>14:30-15:00</td>
+    <td>2:30 pm - 3:00 pm</td>
     <td><strong><a href="https://www.cais2021.ca/talk/24.Shiri/">Indigenous digital storytelling for cultural heritage access and preservation</a></strong><br>
         <i>Ali Shiri, Deanna Lyn Howard, Sharon Farnel</i>
     </td>
   </tr>
   <tr>
-    <td>15:00-15:30</td>
+    <td>3:00 pm -3:30 pm</td>
     <td><strong><a href="https://www.cais2021.ca/talk/25.Farnel/">“Northern relations”: Collaborating “in a good way” to develop the Inuvialuit digital library metadata framework</a></strong><br>
         <i>Sharon Farnel</i>
     </td>
   </tr>
   <tr>
-    <td>15:30-16:00</td>
+    <td>3:30 pm -4:00 pm</td>
     <td><strong><a href="https://www.cais2021.ca/talk/26.Rathi/">Decolonization and reconciliation work in public libraries: An analysis of strategic plans</a></strong><br>
         <i>Dinesh Rathi</i>
     </td>
@@ -215,65 +215,65 @@ header:
   </tr>
   <tr>
     <td rowspan=2>Information policy</td>
-    <td>9:30-10:00</td>
+    <td>9:30 am - 10:00 am</td>
     <td><strong><a href="https://www.cais2021.ca/talk/27.Melnick/">The intersection of shark research, policy and the public: A bibliometric and altmetric view</a></strong><br>
         <i>Kory Melnick, Tamanna Moharana, Rémi Toupin, Pallavi Gone, Bertrum MacDonald, Philippe Mongeon</i>
     </td>
   </tr>
   <tr>
-    <td>10:00-10:30</td>
+    <td>10:00 am - 10:30 am</td>
     <td><strong><a href="https://www.cais2021.ca/talk/28.Park/">Citizens’ right to privacy and right to information access in smart cities: Evaluating the smart city initiative of West Baltimore</a></strong><br>
         <i>Sunyup Park</i>
     </td>
   </tr>
   <tr>
     <td>Break</td>
-    <td colspan=2>10:30-11:00</td>
+    <td colspan=2>10:30 am - 11:00 am</td>
   </tr>
   <tr>
     <td rowspan=3>Scholarly publishing</td>
-    <td>11:00-11:30</td>
+    <td>11:00 am - 11:30 am</td>
     <td><strong><a href="https://www.cais2021.ca/talk/29.Munroe-Lynds/">Mapping the Canadian library and information science research landscape</a></strong><br>
         <i>Cora-Lynn Munroe-Lynds, Marc-André Simard, Vinson Li, Emily McClean, Philippe Mongeon</i>
     </td>
   </tr>
   <tr>
-    <td>11:30-12:00</td>
+    <td>11:30 am - 12:00 pm</td>
     <td><strong><a href="https://www.cais2021.ca/talk/30.Simard/">The burden of article processing charges on Canadian universities</a></strong><br>
         <i>Marc-André Simard, Toluwase Asubiaro, Philippe Mongeon</i>
     </td>
   </tr>
   <tr>
-    <td>12:00-12:30</td>
+    <td>12:00 pm - 12:30 pm</td>
     <td><strong><a href="https://www.cais2021.ca/talk/31.Thornton/">Overlay journals: Overlooked or emergent?</a></strong><br>
         <i>Gail Thornton and Emily Kroeker</i>
     </td>
   </tr>
   <tr>
     <td>Lunch break and social</td>
-    <td colspan=2>12:30-13:30</td>
+    <td colspan=2>12:30 pm - 1:30 pm</td>
   </tr>
   <tr>
     <td rowspan=4>Youth and information literacy</td>
-    <td>13:30-14:00</td>
+    <td>13:30 -2:00 pm</td>
     <td><strong><a href="https://www.cais2021.ca/talk/32.Munroe-Lynds/">Information literacy in Nova Scotia: Systematic mapping of high school learning outcomes</a></strong><br>
         <i>Cora-Lynn Munroe-Lynds</i>
     </td>
   </tr>
   <tr>
-    <td>14:00-14:30</td>
+    <td>2:00 pm -2:30 pm</td>
     <td><strong><a href="https://www.cais2021.ca/talk/33.Cavanagh/">Information literacy from high school to university: Report of the Ontario School Library Impact Project (OSLIP)</a></strong><br>
         <i>Mary Cavanagh, Dianne Oberg, Heather Buchansky, Marc d’Avernas: Kate Johnson-McGregor, Sarah Roberts</i>
     </td>
   </tr>
   <tr>
-    <td>14:30-15:00</td>
+    <td>2:30 pm - 3:00 pm</td>
     <td><strong><a href="https://www.cais2021.ca/talk/34.Julien/">Instruction from the margins: Giving voice to community college librarians</a></strong><br>
         <i>Heidi Julien, Melissa Gross, Don Latham</i>
     </td>
   </tr>
   <tr>
-    <td>15:00-15:30</td>
+    <td>3:00 pm -3:30 pm</td>
     <td><strong><a href="https://www.cais2021.ca/talk/35.McDevitt/">Educating and Empowering teen activists in public libraries: A case study of the impact of reading on young adult social justice actions</a></strong><br>
         <i>Jennifer McDevitt</i>
     </td>
@@ -288,14 +288,14 @@ header:
   </tr>
   <tr>
     <td>Forum</td>
-    <td>9:00 - 11:00</td>
+    <td>9:00 am - 11:00 am</td>
     <td><strong>Student Research Forum</strong> (by invitation only)<br>
         <i>Yaxi Zhao, Alex Mayhew</i>
     </td>
   </tr>
   <tr>
     <td>AGM</td>
-    <td>13:00-15:00</td>
+    <td>1:00 pm - 3:00 pm</td>
     <td><strong><a href="https://www.cais2021.ca/talk/36.AGM/">CAIS Annual General Meeting</a></strong><br>
         <i>Philippe Mongeon</i>
     </td>
