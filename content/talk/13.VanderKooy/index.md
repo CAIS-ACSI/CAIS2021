@@ -1,20 +1,21 @@
 ---
-title: "Unexpected and Overlooked: Understanding Epistemicide in Information Science"
+title: "A whole new world : Investigating the use of social media by the Vancouver Public Library to deliver services during the COVID-19 pandemic"
 event: CAIS2021
 event_url: ../../program/
 
 location: https://zoom.us/j/96815079086
 
-abstract: "This year's conference theme asks us to re-examine our work by seeking overlooked, under-cited, and emergent voices and scholarship, and transformative methodologies, partnerships, and relationships within and beyond our field. Indeed, the information professions need a paradigmatic shift to examine the ways we have systematically undermined knowledge systems falling outside of Western traditions. Epistemicide is the killing, silencing, annihilation, or devaluing of a knowledge system. Epistemicide happens when epistemic injustices are persistent, systematic, and collectively work as a structured oppression of particular ways of knowing. Addressing epistemicide is critical for information professionals because we task ourselves with handling knowledge from every field. There has to be a reckoning before the paradigm can truly shift; if there is no acknowledgement of injustice, there is no room for justice."
+abstract: "This poster will present the preliminary results of a thematic analysis of the contents of theVancouver Public Library’s (VPL) Instagram, Twitter, and YouTube feeds throughout the firstwave of the COVID-19 pandemic (February 1st to June 30th, 2020) to better understand whattypes of crisis-related services and information they are providing to the public. This data willalso be compared to Instagram, Twitter, and YouTube content from the same time period in 2019to investigate whether the pandemic has changed VPL’s social media practices in any significantways."
 
-date: "2021-06-28T12:30:00Z"
+date: "2021-06-08T14:30:00Z"
+date_end: "2021-06-08T16:00:00Z"
 
 all_day: false
 
 publishDate: "2021-05-18T00:00:00Z"
 
 authors:
-- Beth Patin
+- Sam Vander Kooy
 
 featured: false
 

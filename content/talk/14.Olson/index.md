@@ -1,20 +1,27 @@
 ---
-title: "Unexpected and Overlooked: Understanding Epistemicide in Information Science"
+title: "Is Archival Scholarship for Everybody? A Bibliometric Analysis of Gender and Knowledge Production in the Archival Field, 1981 - 2019"
 event: CAIS2021
 event_url: ../../program/
 
 location: https://zoom.us/j/96815079086
 
-abstract: "This year's conference theme asks us to re-examine our work by seeking overlooked, under-cited, and emergent voices and scholarship, and transformative methodologies, partnerships, and relationships within and beyond our field. Indeed, the information professions need a paradigmatic shift to examine the ways we have systematically undermined knowledge systems falling outside of Western traditions. Epistemicide is the killing, silencing, annihilation, or devaluing of a knowledge system. Epistemicide happens when epistemic injustices are persistent, systematic, and collectively work as a structured oppression of particular ways of knowing. Addressing epistemicide is critical for information professionals because we task ourselves with handling knowledge from every field. There has to be a reckoning before the paradigm can truly shift; if there is no acknowledgement of injustice, there is no room for justice."
+abstract: "Analyzing over 7000 academic journal articles spanning four decades, this research uses bibliometric methods to assess the hypothesis that the archival field is a feminized discipline. First, an explanation of our dataset is presented, followed by the results of the proportion of men and women amongst the authors for which we were able to assign a perceived gender. This analysis shows a gradual rise of female-perceived authorship. We then compare these results to the differences in citations between papers with female and male first authors, which shows no clear trend."
 
-date: "2021-06-28T12:30:00Z"
+date: "2021-06-08T14:30:00Z"
+date_end: "2021-06-08T16:00:00Z"
 
 all_day: false
 
 publishDate: "2021-05-18T00:00:00Z"
 
 authors:
-- Beth Patin
+- Lisa Olson
+- Jordan Audas
+- Grace Bourret
+- Kendell Fitzgerald
+- Ana Roeschley
+- Philippe Mongeon
+
 
 featured: false
 
