@@ -81,7 +81,7 @@ header:
   </tr>
   <tr>
     <td>11:00am - 11:30am</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/8.Roberts/">Many tpaths: Curiosity as transformative process</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/8.Roberts/">Many paths: Curiosity as transformative process</a></strong><br>
         <i>Linds Roberts</i>
     </td>
   </tr>
