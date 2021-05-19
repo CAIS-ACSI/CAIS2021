@@ -19,8 +19,8 @@ header:
   </tr>
   <tr>
     <th style="width:20%">Session</th>
-    <th style="width:15%">Time (MDT)</th>
-    <th style="width:65%">Presentation</th>
+    <th style="width:20%">Time (MDT)</th>
+    <th style="width:60%">Presentation</th>
   </tr>
   <tr>
     <td>Keynote</td>
