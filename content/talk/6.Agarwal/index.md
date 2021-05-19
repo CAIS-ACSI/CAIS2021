@@ -1,20 +1,22 @@
 ---
-title: "Unexpected and Overlooked: Understanding Epistemicide in Information Science"
+title: "Aha! Librarians’ predisposition for information encountering and serendipity in the workplace"
 event: CAIS2021
 event_url: ../../program/
 
 location: https://zoom.us/j/96815079086
 
-abstract: "This year's conference theme asks us to re-examine our work by seeking overlooked, under-cited, and emergent voices and scholarship, and transformative methodologies, partnerships, and relationships within and beyond our field. Indeed, the information professions need a paradigmatic shift to examine the ways we have systematically undermined knowledge systems falling outside of Western traditions. Epistemicide is the killing, silencing, annihilation, or devaluing of a knowledge system. Epistemicide happens when epistemic injustices are persistent, systematic, and collectively work as a structured oppression of particular ways of knowing. Addressing epistemicide is critical for information professionals because we task ourselves with handling knowledge from every field. There has to be a reckoning before the paradigm can truly shift; if there is no acknowledgement of injustice, there is no room for justice."
+abstract: "It is not clear if people’s high propensity for information encountering translates to organizational work settings. We investigate the relationship between individual predisposition for information encountering with the frequency of individual information encountering at work. Through a survey of 274 medical librarians of the top 100 medical schools, we found that individual information encountering was a significant predictor of information encountering at work. This finding helps information behavior researchers discover the transfer of behaviors from everyday-life to organizational environments. It brings attention to the need for greater support for information encounters at work, which may enhance their contribution to the organizational objectives."
 
-date: "2021-06-28T12:30:00Z"
+date: "2021-06-08T10:00:00Z"
 
 all_day: false
 
 publishDate: "2021-05-18T00:00:00Z"
 
 authors:
-- Beth Patin
+- Naresh Kumar Agarwal
+- Yuan Ho Huang
+- Sanda Erdelez
 
 featured: false
 
