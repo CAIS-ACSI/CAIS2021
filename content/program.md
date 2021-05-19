@@ -86,7 +86,7 @@ header:
     </td>
   </tr>
   <tr>
-    <td>Lunch Break and Social</td>
+    <td>Lunch break and social</td>
     <td colspan=2>11:30-12:30</td>
   </tr>
   <tr>
@@ -152,7 +152,7 @@ header:
     <th>Presentation</th>
   </tr>
   <tr>
-    <td rowspan=4>Public Libraries, Media, and Gender</td>
+    <td rowspan=4>Public libraries, media, and gender</td>
     <td>9:30-10:00</td>
     <td><strong><a href="https://www.cais2021.ca/talk/19.VanderKooy/">#LibraryLife: A quantitative analysis of social media usage, content, and engagement at the Vancouver Public Library</a></strong><br>
         <i>Sam A. Vander Kooy</i>
@@ -160,13 +160,13 @@ header:
   </tr>
   <tr>
     <td>10:00-10:30</td>
-      <td><strong><a href="https://www.cais2021.ca/talk/20.Rathi/">Use of Twitter by a Public Library during the Pandemic</a></strong><br>
+      <td><strong><a href="https://www.cais2021.ca/talk/20.Rathi/">Use of Twitter by a public library during the pandemic</a></strong><br>
         <i>Dinesh Rathi</i>
     </td>
   </tr>
   <tr>
     <td>10:30-11:00</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/21.Dalmer/">“We’re Still Open”: Canadian News Media’s Framing of Canadian Public Libraries’ Covid-19 Responses</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/21.Dalmer/">“We’re still open”: Canadian news media’s framing of Canadian public libraries’ Covid-19 responses</a></strong><br>
         <i>Nicole Dalmer, Meridith Griffin</i>
     </td>
   </tr>
@@ -177,7 +177,7 @@ header:
     </td>
   </tr>
   <tr>
-    <td>Lunch Break and Social</td>
+    <td>Lunch break and social</td>
     <td colspan=2>11:30-12:30</td>
   </tr>
   <tr>
@@ -192,21 +192,21 @@ header:
     <td colspan=2>14:00-14:30</td>
   </tr>
   <tr>
-    <td rowspan=3>Northern Communities</td>
+    <td rowspan=3>Northern communities</td>
     <td>14:30-15:00</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/24.Shiri/">Indigenous Digital Storytelling for Cultural Heritage Access and Preservation</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/24.Shiri/">Indigenous digital storytelling for cultural heritage access and preservation</a></strong><br>
         <i>Ali Shiri, Deanna Lyn Howard, Sharon Farnel</i>
     </td>
   </tr>
   <tr>
     <td>15:00-15:30</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/25.Farnel/">“Northern Relations”: Collaborating “In a Good Way” to Develop the Inuvialuit Digital Library Metadata Framework</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/25.Farnel/">“Northern relations”: Collaborating “in a good way” to develop the Inuvialuit digital library metadata framework</a></strong><br>
         <i>Sharon Farnel</i>
     </td>
   </tr>
   <tr>
     <td>15:30-16:00</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/26.Rathi/">Decolonization and Reconciliation work in Public Libraries: An Analysis of Strategic Plans</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/26.Rathi/">Decolonization and reconciliation work in public libraries: An analysis of strategic plans</a></strong><br>
         <i>Dinesh Rathi</i>
     </td>
   </tr>
@@ -214,7 +214,7 @@ header:
     <td colspan=3 style="font-size:20px"><strong><font>Day 4 - Wednesday, June 10</font></strong></td>
   </tr>
   <tr>
-    <td rowspan=2>Information Policy</td>
+    <td rowspan=2>Information policy</td>
     <td>9:30-10:00</td>
     <td><strong><a href="https://www.cais2021.ca/talk/27.Melnick/">The intersection of shark research, policy and the public: a bibliometric and altmetric view</a></strong><br>
         <i>Kory Melnick, Tamanna Moharana, Rémi Toupin, Pallavi Gone, Bertrum MacDonald, Philippe Mongeon</i>
@@ -222,7 +222,7 @@ header:
   </tr>
   <tr>
     <td>10:00-10:30</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/28.Park/">Citizens’ Right to Privacy and Right to Information Access in Smart Cities: Evaluating the Smart City Initiative of West Baltimore</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/28.Park/">Citizens’ right to privacy and right to information access in smart cities: Evaluating the smart city initiative of West Baltimore</a></strong><br>
         <i>Sunyup Park</i>
     </td>
   </tr>
@@ -231,7 +231,7 @@ header:
     <td colspan=2>10:30-11:00</td>
   </tr>
   <tr>
-    <td rowspan=3>Scholarly Publishing</td>
+    <td rowspan=3>Scholarly publishing</td>
     <td>11:00-11:30</td>
     <td><strong><a href="https://www.cais2021.ca/talk/29.Munroe-Lynds/">Mapping the Canadian library and information science research landscape</a></strong><br>
         <i>Cora-Lynn Munroe-Lynds, Marc-André Simard, Vinson Li, Emily McClean, Philippe Mongeon</i>
@@ -250,19 +250,19 @@ header:
     </td>
   </tr>
   <tr>
-    <td>Lunch Break and Social</td>
+    <td>Lunch break and social</td>
     <td colspan=2>12:30-13:30</td>
   </tr>
   <tr>
-    <td rowspan=4>Youth and Information Literacy</td>
+    <td rowspan=4>Youth and information literacy</td>
     <td>13:30-14:00</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/32.Munroe-Lynds/">Information Literacy in Nova Scotia: Systematic Mapping of High School Learning Outcomes</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/32.Munroe-Lynds/">Information literacy in Nova Scotia: Systematic mapping of high school learning outcomes</a></strong><br>
         <i>Cora-Lynn Munroe-Lynds</i>
     </td>
   </tr>
   <tr>
     <td>14:00-14:30</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/33.Cavanagh/">Information Literacy from High School to University: Report of the Ontario School Library Impact Project (OSLIP)</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/33.Cavanagh/">Information literacy from high school to university: Report of the Ontario School Library Impact Project (OSLIP)</a></strong><br>
         <i>Mary Cavanagh, Dianne Oberg, Heather Buchansky, Marc d’Avernas: Kate Johnson-McGregor, Sarah Roberts</i>
     </td>
   </tr>
@@ -274,7 +274,7 @@ header:
   </tr>
   <tr>
     <td>15:00-15:30</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/35.McDevitt/">Educating and Empowering Teen Activists in Public Libraries: A Case Study of the Impact of Reading on Young Adult Social Justice Actions</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/35.McDevitt/">Educating and Empowering teen activists in public libraries: A case study of the impact of reading on young adult social justice actions</a></strong><br>
         <i>Jennifer McDevitt</i>
     </td>
   </tr>
