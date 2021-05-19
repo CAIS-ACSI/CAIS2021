@@ -11,8 +11,8 @@ header:
   image: ""
 ---
 
-<center>zoom link for all sessions: <a href="https://zoom.us/j/96815079086">https://zoom.us/j/96815079086</a></center><br>
-<center>Note that all times are in Mountain Daylight Time (MDT) </center>
+<center>zoom link for all sessions: <a href="https://zoom.us/j/96815079086">https://zoom.us/j/96815079086</a></center>
+<center>Note that all times are in Mountain Daylight Time (MDT) </center><br>
 <table style="width:100%">
   <tr>
       <td colspan=3 style="font-size:20px"><strong>Day 1 - Monday, June 7</strong> </td>
