@@ -303,4 +303,3 @@ superuser: false
   </tr>
 </table>
 
-# Talks
