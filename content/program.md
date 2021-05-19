@@ -24,7 +24,7 @@ header:
   <tr>
     <td>Keynote</td>
     <td>12:30-14:00</td>
-    <td><strong><a href="../talk/1.Patin/">Unexpected and Overlooked: Understanding Epistemicide in Information Science</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/1.Patin/">Unexpected and Overlooked: Understanding Epistemicide in Information Science</a></strong><br>
         <i>Beth Patin</i>
     </td>
   </tr>
