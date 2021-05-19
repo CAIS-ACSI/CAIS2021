@@ -154,7 +154,7 @@ header:
   <tr>
     <td rowspan=4>Public Libraries, Media, and Gender</td>
     <td>9:30-10:00</td>
-    <td><strong><a href="https://www.cais2021.ca/talk/19.VanderKooy/">C#LibraryLife: A quantitative analysis of social media usage, content, and engagement at the Vancouver Public Library</a></strong><br>
+    <td><strong><a href="https://www.cais2021.ca/talk/19.VanderKooy/">#LibraryLife: A quantitative analysis of social media usage, content, and engagement at the Vancouver Public Library</a></strong><br>
         <i>Sam A. Vander Kooy</i>
     </td>
   </tr>
