@@ -1,7 +1,7 @@
 ---
 title: "“I’ll just make sure we’re all on the same page”: Talking fictional worlds into being"
 event: CAIS2021
-event_url: ../../program/
+event_url:
 
 location: https://zoom.us/j/96815079086
 

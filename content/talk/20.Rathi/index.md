@@ -1,7 +1,7 @@
 ---
 title: "Use of Twitter by a public library during the pandemic"
 event: CAIS2021
-event_url: ../../program/
+event_url:
 
 location: https://zoom.us/j/96815079086
 

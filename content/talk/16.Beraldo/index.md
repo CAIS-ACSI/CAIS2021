@@ -1,7 +1,7 @@
 ---
 title: "From “a great counter attraction to the ale-house and low music hall” to “the one place everybody goes”: the public library in The Globe and Mail, 1860-2016"
 event: CAIS2021
-event_url: ../../program/
+event_url:
 
 location: https://zoom.us/j/96815079086
 

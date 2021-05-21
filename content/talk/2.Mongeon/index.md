@@ -1,7 +1,7 @@
 ---
 title: "A bibliometric analysis of race-related research in LIS"
 event: CAIS2021
-event_url: https://www.cais2021.ca/#program
+event_url: 
 
 location: https://zoom.us/j/96815079086
 

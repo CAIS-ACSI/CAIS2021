@@ -1,7 +1,7 @@
 ---
 title: "Indigenous digital storytelling for cultural heritage access and preservation"
 event: CAIS2021
-event_url: ../../program/
+event_url:
 
 location: https://zoom.us/j/96815079086
 

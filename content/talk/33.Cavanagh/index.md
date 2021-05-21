@@ -1,7 +1,7 @@
 ---
 title: "Information literacy from high school to university: Report of the Ontario School Library Impact Project (OSLIP)"
 event: CAIS2021
-event_url: ../../program/
+event_url:
 
 location: https://zoom.us/j/96815079086
 

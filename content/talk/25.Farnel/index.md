@@ -1,7 +1,7 @@
 ---
 title: "“Northern relations”: Collaborating “in a good way” to develop the Inuvialuit digital library metadata framework"
 event: CAIS2021
-event_url: ../../program/
+event_url:
 
 location: https://zoom.us/j/96815079086
 

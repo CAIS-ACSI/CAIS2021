@@ -1,7 +1,7 @@
 ---
 title: "Citizens’ right to privacy and right to information access in smart cities: Evaluating the smart city initiative of West Baltimore"
 event: CAIS2021
-event_url: ../../program/
+event_url:
 
 location: https://zoom.us/j/96815079086
 

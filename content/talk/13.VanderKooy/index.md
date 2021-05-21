@@ -1,7 +1,7 @@
 ---
 title: "A whole new world : Investigating the use of social media by the Vancouver Public Library to deliver services during the COVID-19 pandemic"
 event: CAIS2021
-event_url: ../../program/
+event_url:
 
 location: https://zoom.us/j/96815079086
 

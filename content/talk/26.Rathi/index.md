@@ -1,7 +1,7 @@
 ---
 title: "Decolonization and reconciliation work in public libraries: An analysis of strategic plans"
 event: CAIS2021
-event_url: ../../program/
+event_url:
 
 location: https://zoom.us/j/96815079086
 

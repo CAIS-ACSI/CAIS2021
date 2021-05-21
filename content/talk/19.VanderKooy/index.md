@@ -1,7 +1,7 @@
 ---
 title: "#LibraryLife: A quantitative analysis of social media usage, content, and engagement at the Vancouver Public Library"
 event: CAIS2021
-event_url: ../../program/
+event_url:
 
 location: https://zoom.us/j/96815079086
 

@@ -1,7 +1,7 @@
 ---
 title: "The role of human information behaviour in resilience and recovery"
 event: CAIS2021
-event_url: ../../program/
+event_url:
 
 location: https://zoom.us/j/96815079086
 

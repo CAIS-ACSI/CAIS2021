@@ -1,7 +1,7 @@
 ---
 title: "Multi-method experience sampling in information behaviour research"
 event: CAIS2021
-event_url: ../../program/
+event_url:
 
 location: https://zoom.us/j/96815079086
 
