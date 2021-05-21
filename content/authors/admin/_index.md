@@ -21,23 +21,14 @@ This year’s CAIS conference theme “Northern Relations: Connecting the Unexpe
 
 This year’s presenters took up our call, enabling us to offer a program featuring a keynote, 23 papers, 9 posters, and 2 panels that challenge the status quo and deeply consider our contemporary times. We would like to thank all of our double-blind peer reviewers, and offer our special thanks to Yaxi Zhao and Alex Mayhew for organizing the Student Research Forum. 
 
-We are delighted to have Dr. Beth Patin as our keynote speaker. Dr. Patin argues for a paradigm shift in information science by inviting us to consider the knowledge systems, practices, and transformative methodologies that have been traditionally excluded from our field in her keynote: “Unexpected and overlooked: Understanding epistemicide in information science.” 
+We are delighted to have Dr. Beth Patin as our keynote speaker. Dr. Patin argues for a paradigm shift in information science by inviting us to consider the knowledge systems, practices, and transformative methodologies that have been traditionally excluded from our field in her keynote: “[Unexpected and overlooked: Understanding epistemicide in information science](https://www.cais2021.ca/talk/1.Patin/).” 
 
 Congratulations to all of our presenters and particularly the Best Paper “A bibliometric analysis of race-related research in LIS” by Philippe Mongeon, Alison Brown, Ratna Dhaliwal, Jessalyn Hill, and Amber Matthews; Best Paper Honourable Mention “Perspectives on telehealth projects in northern communities: Lessons learned for decolonized participatory design and assessment” Joelena Leader, Abby Goodrum; and the Student-to-CAIS award winner “Reading the silence: Canadian library responses to racial injustice” by Amber Matthews. 
 
 The University of Alberta is situated on traditional Treaty 6 territory and homeland of the Métis peoples. Amiskwaciwâskahikan / ᐊᒥᐢᑲᐧᒋᕀᐋᐧᐢᑲᐦᐃᑲᐣ / Edmonton.
 
-Tami Oliphant
-School of Library and Information Studies,
-University of Alberta	
 
-Robyn Stobbs
-Research Data Management
-Librarian, Athabasca University and PhD Candidate, Human Ecology & Library and Information Studies, University of Alberta	
 
-Adam Worrall
-School of Library and Information Studies,
-University of Alberta
 
 # Program
 
