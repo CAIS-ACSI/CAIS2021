@@ -27,7 +27,15 @@ Congratulations to all of our presenters and particularly the Best Paper “A bi
 
 The University of Alberta is situated on traditional Treaty 6 territory and homeland of the Métis peoples. Amiskwaciwâskahikan / ᐊᒥᐢᑲᐧᒋᕀᐋᐧᐢᑲᐦᐃᑲᐣ / Edmonton.
 
+Tami Oliphant
+School of Library and Information Studies, University of Alberta	
 
+Robyn Stobbs
+Research Data Management Librarian, Athabasca University 
+PhD Candidate, Human Ecology & Library and Information Studies, University of Alberta	
+
+Adam Worrall
+School of Library and Information Studies, University of Alberta
 
 
 # Program
