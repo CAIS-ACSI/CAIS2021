@@ -25,12 +25,12 @@ This year’s CAIS conference theme “Northern Relations: Connecting the Unexpe
     The University of Alberta is situated on traditional Treaty 6 territory and homeland of the Métis peoples. Amiskwaciwâskahikan / ᐊᒥᐢᑲᐧᒋᕀᐋᐧᐢᑲᐦᐃᑲᐣ / Edmonton.
 </p>
 <p style="font-size:13.5px">
-    **Tami Oliphant**<br>
+    <strong>Tami Oliphant</strong><br>
     School of Library and Information Studies, University of Alberta<br><br>
-    **Robyn Stobbs**<br>
+    <strong>Robyn Stobbs</strong><br>
     Research Data Management Librarian, Athabasca University**<br>
     PhD Candidate, Human Ecology & Library and Information Studies, University of Alberta<br><br>
-    **Adam Worrall**<br>
+    <strong>Adam Worrall</strong><br>
     School of Library and Information Studies, University of Alberta
 </p>
 
