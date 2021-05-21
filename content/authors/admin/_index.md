@@ -10,7 +10,7 @@ superuser: false
 
 **An OPEN Virtual Conference**
 
-<p style="font-size:11px">
+<p style="font-size:13.5px">
 CAIS 2021 is the 49th annual conference of the Canadian Association for Information Science/ l’Association canadienne des sciences de l’information (CAIS/ACSI), hosted online by the University of Alberta, June 7 – 10, 2021.
 This year’s CAIS conference theme “Northern Relations: Connecting the Unexpected and Overlooked to Information Science” invites reflection upon library and information science as a diverse and relational field. Inspired by the overlooked, entangled, unexpected, and novel approaches to scholarship, teaching, and practice, we considered the many ways that library and information science can offer diverse and inclusive perspectives on data, information, knowledge, libraries, pedagogy, place, space, relationships, and communities.
 
