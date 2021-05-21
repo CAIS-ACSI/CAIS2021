@@ -10,9 +10,34 @@ superuser: false
 **June 7 – 10, 2021**
 <br>
 
-# Conference theme
+# Welcome
 
-Library and information science is a diverse and relational field, one where different research streams, communities, and cultures meet. However, research, scholarship, pedagogy, and inquiry in information science often centres on the theories, ideas, and practices that have become well-established and privileged. In this time of great change in our communities, cultures, and society, our expectations of “normal” have been ruptured. This contemporary moment simultaneously invites us to re-examine our work by seeking overlooked, under-cited, and emergent voices and scholarship, and transformative methodologies, partnerships, and relationships within and beyond our field. “Northern Relations” calls us to consider both the intergenerational impacts of our work in terms of leadership and pedagogy as well as the constellations of information science that guide us to the emergent, networked, rhizomatic, and connected ideas that take us to literal and metaphorical unexpected and overlooked places and spaces. Facilitating and caring for relations with people, ideas, and non-humans from these entangled, unexpected, and overlooked places and spaces contributes to a resilient and vibrant field in education, research, and practice. 
+Welcome to CAIS 2021: Northern Relations: Connecting the Unexpected and Overlooked to Information Science
+
+An OPEN Virtual Conference
+
+CAIS 2021 is the 49th annual conference of the Canadian Association for Information Science/ l’Association canadienne des sciences de l’information (CAIS/ACSI), hosted online by the University of Alberta, June 7 – 10, 2021.
+This year’s CAIS conference theme “Northern Relations: Connecting the Unexpected and Overlooked to Information Science” invites reflection upon library and information science as a diverse and relational field. Inspired by the overlooked, entangled, unexpected, and novel approaches to scholarship, teaching, and practice, we considered the many ways that library and information science can offer diverse and inclusive perspectives on data, information, knowledge, libraries, pedagogy, place, space, relationships, and communities.
+
+This year’s presenters took up our call, enabling us to offer a program featuring a keynote, 23 papers, 9 posters, and 2 panels that challenge the status quo and deeply consider our contemporary times. We would like to thank all of our double-blind peer reviewers, and offer our special thanks to Yaxi Zhao and Alex Mayhew for organizing the Student Research Forum. 
+
+We are delighted to have Dr. Beth Patin as our keynote speaker. Dr. Patin argues for a paradigm shift in information science by inviting us to consider the knowledge systems, practices, and transformative methodologies that have been traditionally excluded from our field in her keynote: “Unexpected and overlooked: Understanding epistemicide in information science.” 
+
+Congratulations to all of our presenters and particularly the Best Paper “A bibliometric analysis of race-related research in LIS” by Philippe Mongeon, Alison Brown, Ratna Dhaliwal, Jessalyn Hill, and Amber Matthews; Best Paper Honourable Mention “Perspectives on telehealth projects in northern communities: Lessons learned for decolonized participatory design and assessment” Joelena Leader, Abby Goodrum; and the Student-to-CAIS award winner “Reading the silence: Canadian library responses to racial injustice” by Amber Matthews. 
+
+The University of Alberta is situated on traditional Treaty 6 territory and homeland of the Métis peoples. Amiskwaciwâskahikan / ᐊᒥᐢᑲᐧᒋᕀᐋᐧᐢᑲᐦᐃᑲᐣ / Edmonton.
+
+Tami Oliphant
+School of Library and Information Studies,
+University of Alberta	
+
+Robyn Stobbs
+Research Data Management
+Librarian, Athabasca University and PhD Candidate, Human Ecology & Library and Information Studies, University of Alberta	
+
+Adam Worrall
+School of Library and Information Studies,
+University of Alberta
 
 # Program
 
