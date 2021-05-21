@@ -5,12 +5,10 @@ authors:
 - admin
 superuser: false
 ---
-**49th Annual Conference of the Canadian Association for Information Science / l’Association canadienne des sciences de l’information (CAIS/ACSI)**
+**Welcome to CAIS 2021: Northern Relations: Connecting the Unexpected and Overlooked to Information Science**
 <br>
-**June 7 – 10, 2021**
+**An OPEN Virtual Conference**
 <br>
-
-# Welcome
 
 Welcome to CAIS 2021: Northern Relations: Connecting the Unexpected and Overlooked to Information Science
 
