@@ -37,7 +37,7 @@ This year’s CAIS conference theme “Northern Relations: Connecting the Unexpe
 # Program
 
 <center>Zoom link for all sessions: <a href="https://zoom.us/j/96815079086">https://zoom.us/j/96815079086</a></center>
-<center>Note that all times are in <strong>Mountain Daylight Time (MDT)</strong></center><br>
+<center>Note that all times are in <strong>Mountain Daylight Time (MDT)</strong></center>
 <center>Download PDF version of the program <a href="cais2021_program_and_schedule.pdf">here</a>.</center>
 <table style="width:100%">
   <tr>
@@ -121,6 +121,10 @@ This year’s CAIS conference theme “Northern Relations: Connecting the Unexpe
     <td><strong><a href="https://www.cais2021.ca/talk/9.Hartel/">Finding sanctuary and strength in the LIS classroom</a></strong><br>
         <i>Jenna Hartel, Kiersten F. Latham, Beck Tench, Hugh Samson, Hailey Siracky, and Roger Chabot</i>
     </td>
+  </tr>
+  <tr>
+    <td>Break</td>
+    <td colspan=2>2:00pm - 2:30pm</td>
   </tr>
   <tr>
     <td rowspan=9>Poster Session</td>
