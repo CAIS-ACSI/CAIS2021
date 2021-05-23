@@ -5,7 +5,7 @@ event_url:
 
 location: https://zoom.us/j/96815079086
 
-abstract: "In this paper I report on one aspect of my doctoral research which involved working collaboratively, respectfully, and appropriately with members of the Inuvialuit community in the northwestern part of Canada to explore and articulate a culturally responsive metadata framework for their digital library of cultural resources."
+abstract: "Capturing information behaviours and attitudes occurring in natural settings is a challenge. Observational methods are often intrusive or retrospective proxies, which may change behaviour or misrepresent attitudes. Technology enables novel approaches to in-situ quantitative data collection but rarely explores qualitative reflections; informing researchers on what happened, but not necessarily why. Recent work uses multi-method approaches that combine quantitative data, tracking experiences, feelings, and behaviours over time, with qualitative data to gain deeper insights into subjective experiences. This poster has two main objectives: (1) introduce experience sampling methods (ESM) to information and library scientists, and (2) show how traditional quantitative ESM measures can be extended with qualitative measures."
 
 date: "2021-06-08T14:30:00Z"
 date_end: "2021-06-08T16:00:00Z"
