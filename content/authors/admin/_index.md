@@ -241,7 +241,7 @@ This year’s CAIS conference theme “Northern Relations: Connecting the Unexpe
     </td>
   </tr>
   <tr>
-    <td colspan=3 style="font-size:20px"><strong><font>Day 4 - Wednesday, June 10</font></strong></td>
+    <td colspan=3 style="font-size:20px"><strong><font>Day 4 - Thursday, June 10</font></strong></td>
   </tr>
   <tr>
     <td rowspan=2>Information policy</td>
