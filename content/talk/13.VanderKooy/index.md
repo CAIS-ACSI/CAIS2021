@@ -19,6 +19,9 @@ authors:
 
 featured: false
 
+links:
+- name: PDF
+  url: https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1215/1051
 
 math: true
 ---

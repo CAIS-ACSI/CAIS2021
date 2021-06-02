@@ -20,7 +20,9 @@ authors:
 - Sanda Erdelez
 
 featured: false
-
+links:
+- name: PDF
+  url: https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1203/1038
 
 math: true
 ---
