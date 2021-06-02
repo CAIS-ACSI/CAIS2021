@@ -21,6 +21,10 @@ authors:
 - Jessalyn Hill
 - Amber Matthews
 
+links:
+ - name: PDF
+ - url: https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1224/1026
+
 
 featured: false
 
