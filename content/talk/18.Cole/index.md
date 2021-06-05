@@ -24,7 +24,8 @@ featured: false
 links:
 - name: PDF
   url: https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1187/1030
-
+- name: Poster
+  url: CAIS2021_Cole_poster.pdf
 
 math: true
 ---
