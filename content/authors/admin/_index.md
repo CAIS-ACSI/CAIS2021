@@ -244,6 +244,11 @@ This year’s CAIS conference theme “Northern Relations: Connecting the Unexpe
     <td colspan=3 style="font-size:20px"><strong><font>Day 4 - Thursday, June 10</font></strong></td>
   </tr>
   <tr>
+    <th>Session</th>
+    <th>Time (MDT)</th>
+    <th>Presentation</th>
+  </tr>
+  <tr>
     <td rowspan=2>Information policy</td>
     <td>9:30am - 10:00am</td>
     <td><strong><a href="https://www.cais2021.ca/talk/27.Melnick/">The intersection of shark research, policy and the public: A bibliometric and altmetric view</a></strong><br>
