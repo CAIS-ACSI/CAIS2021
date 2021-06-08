@@ -22,7 +22,10 @@ featured: false
 links:
 - name: PDF
   url: https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1206/1042
+- name: Recording
+  url: https://youtu.be/_3R0cgXmsLQ
 
 
 math: true
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_3R0cgXmsLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
