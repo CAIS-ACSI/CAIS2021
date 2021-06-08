@@ -37,7 +37,8 @@ This year’s CAIS conference theme “Northern Relations: Connecting the Unexpe
 # Program
 
 <center>Zoom link for all sessions: <a href="https://zoom.us/j/96815079086">https://zoom.us/j/96815079086</a></center>
-<center>Note that all times are in <strong>Mountain Daylight Time (MDT)</strong></center>
+<center>Note that all times are in <strong>Mountain Daylight Time (MDT)</strong>.</center>
+<center>Please make sure to use your real name when joining the Zoom call to ensure that the moderators let you in. If you have problems accessing the meeting, please <a href="#contact">contact us.</a></center>
 <center>Download PDF version of the program <a href="cais2021_program_and_schedule.pdf">here</a>.</center>
 <table style="width:100%">
   <tr>
